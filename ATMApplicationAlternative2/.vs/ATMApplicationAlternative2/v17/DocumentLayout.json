@@ -1,0 +1,250 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F673DACF-1BB3-4649-A38E-F0E4830B3B2B}|ATMApplicationAlternative2\\ATMApplicationAlternative2.csproj|c:\\users\\thehe\\source\\repos\\atmapplicationalternative2\\atmapplicationalternative2\\ui\\appscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F673DACF-1BB3-4649-A38E-F0E4830B3B2B}|ATMApplicationAlternative2\\ATMApplicationAlternative2.csproj|solutionrelative:atmapplicationalternative2\\ui\\appscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F673DACF-1BB3-4649-A38E-F0E4830B3B2B}|ATMApplicationAlternative2\\ATMApplicationAlternative2.csproj|c:\\users\\thehe\\source\\repos\\atmapplicationalternative2\\atmapplicationalternative2\\ui\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F673DACF-1BB3-4649-A38E-F0E4830B3B2B}|ATMApplicationAlternative2\\ATMApplicationAlternative2.csproj|solutionrelative:atmapplicationalternative2\\ui\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F673DACF-1BB3-4649-A38E-F0E4830B3B2B}|ATMApplicationAlternative2\\ATMApplicationAlternative2.csproj|c:\\users\\thehe\\source\\repos\\atmapplicationalternative2\\atmapplicationalternative2\\ui\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F673DACF-1BB3-4649-A38E-F0E4830B3B2B}|ATMApplicationAlternative2\\ATMApplicationAlternative2.csproj|solutionrelative:atmapplicationalternative2\\ui\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F673DACF-1BB3-4649-A38E-F0E4830B3B2B}|ATMApplicationAlternative2\\ATMApplicationAlternative2.csproj|c:\\users\\thehe\\source\\repos\\atmapplicationalternative2\\atmapplicationalternative2\\app\\atmapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F673DACF-1BB3-4649-A38E-F0E4830B3B2B}|ATMApplicationAlternative2\\ATMApplicationAlternative2.csproj|solutionrelative:atmapplicationalternative2\\app\\atmapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F673DACF-1BB3-4649-A38E-F0E4830B3B2B}|ATMApplicationAlternative2\\ATMApplicationAlternative2.csproj|c:\\users\\thehe\\source\\repos\\atmapplicationalternative2\\atmapplicationalternative2\\domain\\enums\\appmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F673DACF-1BB3-4649-A38E-F0E4830B3B2B}|ATMApplicationAlternative2\\ATMApplicationAlternative2.csproj|solutionrelative:atmapplicationalternative2\\domain\\enums\\appmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F673DACF-1BB3-4649-A38E-F0E4830B3B2B}|ATMApplicationAlternative2\\ATMApplicationAlternative2.csproj|c:\\users\\thehe\\source\\repos\\atmapplicationalternative2\\atmapplicationalternative2\\domain\\enums\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F673DACF-1BB3-4649-A38E-F0E4830B3B2B}|ATMApplicationAlternative2\\ATMApplicationAlternative2.csproj|solutionrelative:atmapplicationalternative2\\domain\\enums\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F673DACF-1BB3-4649-A38E-F0E4830B3B2B}|ATMApplicationAlternative2\\ATMApplicationAlternative2.csproj|c:\\users\\thehe\\source\\repos\\atmapplicationalternative2\\atmapplicationalternative2\\domain\\interfaces\\iuseractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F673DACF-1BB3-4649-A38E-F0E4830B3B2B}|ATMApplicationAlternative2\\ATMApplicationAlternative2.csproj|solutionrelative:atmapplicationalternative2\\domain\\interfaces\\iuseractions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F673DACF-1BB3-4649-A38E-F0E4830B3B2B}|ATMApplicationAlternative2\\ATMApplicationAlternative2.csproj|c:\\users\\thehe\\source\\repos\\atmapplicationalternative2\\atmapplicationalternative2\\domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F673DACF-1BB3-4649-A38E-F0E4830B3B2B}|ATMApplicationAlternative2\\ATMApplicationAlternative2.csproj|solutionrelative:atmapplicationalternative2\\domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F673DACF-1BB3-4649-A38E-F0E4830B3B2B}|ATMApplicationAlternative2\\ATMApplicationAlternative2.csproj|c:\\users\\thehe\\source\\repos\\atmapplicationalternative2\\atmapplicationalternative2\\domain\\entities\\internaltransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F673DACF-1BB3-4649-A38E-F0E4830B3B2B}|ATMApplicationAlternative2\\ATMApplicationAlternative2.csproj|solutionrelative:atmapplicationalternative2\\domain\\entities\\internaltransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F673DACF-1BB3-4649-A38E-F0E4830B3B2B}|ATMApplicationAlternative2\\ATMApplicationAlternative2.csproj|c:\\users\\thehe\\source\\repos\\atmapplicationalternative2\\atmapplicationalternative2\\domain\\interfaces\\itransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F673DACF-1BB3-4649-A38E-F0E4830B3B2B}|ATMApplicationAlternative2\\ATMApplicationAlternative2.csproj|solutionrelative:atmapplicationalternative2\\domain\\interfaces\\itransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F673DACF-1BB3-4649-A38E-F0E4830B3B2B}|ATMApplicationAlternative2\\ATMApplicationAlternative2.csproj|c:\\users\\thehe\\source\\repos\\atmapplicationalternative2\\atmapplicationalternative2\\app\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F673DACF-1BB3-4649-A38E-F0E4830B3B2B}|ATMApplicationAlternative2\\ATMApplicationAlternative2.csproj|solutionrelative:atmapplicationalternative2\\app\\entry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F673DACF-1BB3-4649-A38E-F0E4830B3B2B}|ATMApplicationAlternative2\\ATMApplicationAlternative2.csproj|c:\\users\\thehe\\source\\repos\\atmapplicationalternative2\\atmapplicationalternative2\\domain\\interfaces\\iuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F673DACF-1BB3-4649-A38E-F0E4830B3B2B}|ATMApplicationAlternative2\\ATMApplicationAlternative2.csproj|solutionrelative:atmapplicationalternative2\\domain\\interfaces\\iuserlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F673DACF-1BB3-4649-A38E-F0E4830B3B2B}|ATMApplicationAlternative2\\ATMApplicationAlternative2.csproj|c:\\users\\thehe\\source\\repos\\atmapplicationalternative2\\atmapplicationalternative2\\domain\\entities\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F673DACF-1BB3-4649-A38E-F0E4830B3B2B}|ATMApplicationAlternative2\\ATMApplicationAlternative2.csproj|solutionrelative:atmapplicationalternative2\\domain\\entities\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 229,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppMenu.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\ATMApplicationAlternative2\\Domain\\Enums\\AppMenu.cs",
+              "RelativeDocumentMoniker": "ATMApplicationAlternative2\\Domain\\Enums\\AppMenu.cs",
+              "ToolTip": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\ATMApplicationAlternative2\\Domain\\Enums\\AppMenu.cs",
+              "RelativeToolTip": "ATMApplicationAlternative2\\Domain\\Enums\\AppMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T06:45:00.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\ATMApplicationAlternative2\\Domain\\Entities\\UserAccount.cs",
+              "RelativeDocumentMoniker": "ATMApplicationAlternative2\\Domain\\Entities\\UserAccount.cs",
+              "ToolTip": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\ATMApplicationAlternative2\\Domain\\Entities\\UserAccount.cs",
+              "RelativeToolTip": "ATMApplicationAlternative2\\Domain\\Entities\\UserAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:01:04.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppScreen.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\ATMApplicationAlternative2\\UI\\AppScreen.cs",
+              "RelativeDocumentMoniker": "ATMApplicationAlternative2\\UI\\AppScreen.cs",
+              "ToolTip": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\ATMApplicationAlternative2\\UI\\AppScreen.cs",
+              "RelativeToolTip": "ATMApplicationAlternative2\\UI\\AppScreen.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAAwFoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:34:34.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\ATMApplicationAlternative2\\UI\\Validator.cs",
+              "RelativeDocumentMoniker": "ATMApplicationAlternative2\\UI\\Validator.cs",
+              "ToolTip": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\ATMApplicationAlternative2\\UI\\Validator.cs",
+              "RelativeToolTip": "ATMApplicationAlternative2\\UI\\Validator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:25:01.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ATMApp.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\ATMApplicationAlternative2\\App\\ATMApp.cs",
+              "RelativeDocumentMoniker": "ATMApplicationAlternative2\\App\\ATMApp.cs",
+              "ToolTip": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\ATMApplicationAlternative2\\App\\ATMApp.cs",
+              "RelativeToolTip": "ATMApplicationAlternative2\\App\\ATMApp.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAArwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T08:11:40.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InternalTransfer.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\ATMApplicationAlternative2\\Domain\\Entities\\InternalTransfer.cs",
+              "RelativeDocumentMoniker": "ATMApplicationAlternative2\\Domain\\Entities\\InternalTransfer.cs",
+              "ToolTip": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\ATMApplicationAlternative2\\Domain\\Entities\\InternalTransfer.cs",
+              "RelativeToolTip": "ATMApplicationAlternative2\\Domain\\Entities\\InternalTransfer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T09:01:41.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\ATMApplicationAlternative2\\Domain\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "ATMApplicationAlternative2\\Domain\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\ATMApplicationAlternative2\\Domain\\Entities\\Transaction.cs",
+              "RelativeToolTip": "ATMApplicationAlternative2\\Domain\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:38:12.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionType.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\ATMApplicationAlternative2\\Domain\\Enums\\TransactionType.cs",
+              "RelativeDocumentMoniker": "ATMApplicationAlternative2\\Domain\\Enums\\TransactionType.cs",
+              "ToolTip": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\ATMApplicationAlternative2\\Domain\\Enums\\TransactionType.cs",
+              "RelativeToolTip": "ATMApplicationAlternative2\\Domain\\Enums\\TransactionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:40:23.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITransaction.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\ATMApplicationAlternative2\\Domain\\Interfaces\\ITransaction.cs",
+              "RelativeDocumentMoniker": "ATMApplicationAlternative2\\Domain\\Interfaces\\ITransaction.cs",
+              "ToolTip": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\ATMApplicationAlternative2\\Domain\\Interfaces\\ITransaction.cs",
+              "RelativeToolTip": "ATMApplicationAlternative2\\Domain\\Interfaces\\ITransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:42:52.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\ATMApplicationAlternative2\\UI\\Utility.cs",
+              "RelativeDocumentMoniker": "ATMApplicationAlternative2\\UI\\Utility.cs",
+              "ToolTip": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\ATMApplicationAlternative2\\UI\\Utility.cs",
+              "RelativeToolTip": "ATMApplicationAlternative2\\UI\\Utility.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAIA6wEsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:09:54.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserActions.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\ATMApplicationAlternative2\\Domain\\Interfaces\\IUserActions.cs",
+              "RelativeDocumentMoniker": "ATMApplicationAlternative2\\Domain\\Interfaces\\IUserActions.cs",
+              "ToolTip": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\ATMApplicationAlternative2\\Domain\\Interfaces\\IUserActions.cs",
+              "RelativeToolTip": "ATMApplicationAlternative2\\Domain\\Interfaces\\IUserActions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T07:01:22.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\ATMApplicationAlternative2\\Domain\\Interfaces\\IUserLogin.cs",
+              "RelativeDocumentMoniker": "ATMApplicationAlternative2\\Domain\\Interfaces\\IUserLogin.cs",
+              "ToolTip": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\ATMApplicationAlternative2\\Domain\\Interfaces\\IUserLogin.cs",
+              "RelativeToolTip": "ATMApplicationAlternative2\\Domain\\Interfaces\\IUserLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:03:13.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Entry.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\ATMApplicationAlternative2\\App\\Entry.cs",
+              "RelativeDocumentMoniker": "ATMApplicationAlternative2\\App\\Entry.cs",
+              "ToolTip": "C:\\Users\\TheHe\\source\\repos\\ATMApplicationAlternative2\\ATMApplicationAlternative2\\App\\Entry.cs",
+              "RelativeToolTip": "ATMApplicationAlternative2\\App\\Entry.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:02:34.86Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 171,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
