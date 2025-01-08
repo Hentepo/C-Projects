@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TheHe\\source\\repos\\GuessNumberGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E874D3D-C3BB-4D5D-A153-E81EED479AE0}|GuessNumberGame\\GuessNumberGame.csproj|c:\\users\\thehe\\source\\repos\\guessnumbergame\\guessnumbergame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E874D3D-C3BB-4D5D-A153-E81EED479AE0}|GuessNumberGame\\GuessNumberGame.csproj|solutionrelative:guessnumbergame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E874D3D-C3BB-4D5D-A153-E81EED479AE0}|GuessNumberGame\\GuessNumberGame.csproj|c:\\users\\thehe\\source\\repos\\guessnumbergame\\guessnumbergame\\numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E874D3D-C3BB-4D5D-A153-E81EED479AE0}|GuessNumberGame\\GuessNumberGame.csproj|solutionrelative:guessnumbergame\\numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E874D3D-C3BB-4D5D-A153-E81EED479AE0}|GuessNumberGame\\GuessNumberGame.csproj|c:\\users\\thehe\\source\\repos\\guessnumbergame\\guessnumbergame\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E874D3D-C3BB-4D5D-A153-E81EED479AE0}|GuessNumberGame\\GuessNumberGame.csproj|solutionrelative:guessnumbergame\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 229,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\source\\repos\\GuessNumberGame\\GuessNumberGame\\Utility.cs",
+              "RelativeDocumentMoniker": "GuessNumberGame\\Utility.cs",
+              "ToolTip": "C:\\Users\\TheHe\\source\\repos\\GuessNumberGame\\GuessNumberGame\\Utility.cs",
+              "RelativeToolTip": "GuessNumberGame\\Utility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:39:40.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Numbers.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\source\\repos\\GuessNumberGame\\GuessNumberGame\\Numbers.cs",
+              "RelativeDocumentMoniker": "GuessNumberGame\\Numbers.cs",
+              "ToolTip": "C:\\Users\\TheHe\\source\\repos\\GuessNumberGame\\GuessNumberGame\\Numbers.cs",
+              "RelativeToolTip": "GuessNumberGame\\Numbers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:39:18.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\source\\repos\\GuessNumberGame\\GuessNumberGame\\Program.cs",
+              "RelativeDocumentMoniker": "GuessNumberGame\\Program.cs",
+              "ToolTip": "C:\\Users\\TheHe\\source\\repos\\GuessNumberGame\\GuessNumberGame\\Program.cs",
+              "RelativeToolTip": "GuessNumberGame\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T12:37:35.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 171,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

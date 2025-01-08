@@ -1,0 +1,14 @@
+C:\Users\TheHe\source\repos\GuessNumberGame\GuessNumberGame\bin\Debug\net8.0\GuessNumberGame.exe
+C:\Users\TheHe\source\repos\GuessNumberGame\GuessNumberGame\bin\Debug\net8.0\GuessNumberGame.deps.json
+C:\Users\TheHe\source\repos\GuessNumberGame\GuessNumberGame\bin\Debug\net8.0\GuessNumberGame.runtimeconfig.json
+C:\Users\TheHe\source\repos\GuessNumberGame\GuessNumberGame\bin\Debug\net8.0\GuessNumberGame.dll
+C:\Users\TheHe\source\repos\GuessNumberGame\GuessNumberGame\bin\Debug\net8.0\GuessNumberGame.pdb
+C:\Users\TheHe\source\repos\GuessNumberGame\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheHe\source\repos\GuessNumberGame\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.AssemblyInfoInputs.cache
+C:\Users\TheHe\source\repos\GuessNumberGame\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.AssemblyInfo.cs
+C:\Users\TheHe\source\repos\GuessNumberGame\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.csproj.CoreCompileInputs.cache
+C:\Users\TheHe\source\repos\GuessNumberGame\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.dll
+C:\Users\TheHe\source\repos\GuessNumberGame\GuessNumberGame\obj\Debug\net8.0\refint\GuessNumberGame.dll
+C:\Users\TheHe\source\repos\GuessNumberGame\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.pdb
+C:\Users\TheHe\source\repos\GuessNumberGame\GuessNumberGame\obj\Debug\net8.0\GuessNumberGame.genruntimeconfig.cache
+C:\Users\TheHe\source\repos\GuessNumberGame\GuessNumberGame\obj\Debug\net8.0\ref\GuessNumberGame.dll
