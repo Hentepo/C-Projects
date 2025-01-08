@@ -46,7 +46,8 @@ while (true)
     }
     catch
     {
-        Console.WriteLine($"Please, input a numberic value");
+        Console.WriteLine($"Input a numberic value");
+        Console.WriteLine("Please, try again");
         Console.WriteLine("");
     }
 }

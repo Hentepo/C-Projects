@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\TheHe\\source\\repos\\GuessNumberGame\\",
+  "WorkspaceRootPath": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\GuessNumberGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7E874D3D-C3BB-4D5D-A153-E81EED479AE0}|GuessNumberGame\\GuessNumberGame.csproj|c:\\users\\thehe\\source\\repos\\guessnumbergame\\guessnumbergame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E874D3D-C3BB-4D5D-A153-E81EED479AE0}|GuessNumberGame\\GuessNumberGame.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\guessnumbergame\\guessnumbergame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E874D3D-C3BB-4D5D-A153-E81EED479AE0}|GuessNumberGame\\GuessNumberGame.csproj|solutionrelative:guessnumbergame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E874D3D-C3BB-4D5D-A153-E81EED479AE0}|GuessNumberGame\\GuessNumberGame.csproj|c:\\users\\thehe\\source\\repos\\guessnumbergame\\guessnumbergame\\numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E874D3D-C3BB-4D5D-A153-E81EED479AE0}|GuessNumberGame\\GuessNumberGame.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\guessnumbergame\\guessnumbergame\\numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E874D3D-C3BB-4D5D-A153-E81EED479AE0}|GuessNumberGame\\GuessNumberGame.csproj|solutionrelative:guessnumbergame\\numbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7E874D3D-C3BB-4D5D-A153-E81EED479AE0}|GuessNumberGame\\GuessNumberGame.csproj|c:\\users\\thehe\\source\\repos\\guessnumbergame\\guessnumbergame\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7E874D3D-C3BB-4D5D-A153-E81EED479AE0}|GuessNumberGame\\GuessNumberGame.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\guessnumbergame\\guessnumbergame\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7E874D3D-C3BB-4D5D-A153-E81EED479AE0}|GuessNumberGame\\GuessNumberGame.csproj|solutionrelative:guessnumbergame\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Utility.cs",
-              "DocumentMoniker": "C:\\Users\\TheHe\\source\\repos\\GuessNumberGame\\GuessNumberGame\\Utility.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\GuessNumberGame\\GuessNumberGame\\Utility.cs",
               "RelativeDocumentMoniker": "GuessNumberGame\\Utility.cs",
-              "ToolTip": "C:\\Users\\TheHe\\source\\repos\\GuessNumberGame\\GuessNumberGame\\Utility.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\GuessNumberGame\\GuessNumberGame\\Utility.cs",
               "RelativeToolTip": "GuessNumberGame\\Utility.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -48,9 +48,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Numbers.cs",
-              "DocumentMoniker": "C:\\Users\\TheHe\\source\\repos\\GuessNumberGame\\GuessNumberGame\\Numbers.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\GuessNumberGame\\GuessNumberGame\\Numbers.cs",
               "RelativeDocumentMoniker": "GuessNumberGame\\Numbers.cs",
-              "ToolTip": "C:\\Users\\TheHe\\source\\repos\\GuessNumberGame\\GuessNumberGame\\Numbers.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\GuessNumberGame\\GuessNumberGame\\Numbers.cs",
               "RelativeToolTip": "GuessNumberGame\\Numbers.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,11 +60,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\TheHe\\source\\repos\\GuessNumberGame\\GuessNumberGame\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\GuessNumberGame\\GuessNumberGame\\Program.cs",
               "RelativeDocumentMoniker": "GuessNumberGame\\Program.cs",
-              "ToolTip": "C:\\Users\\TheHe\\source\\repos\\GuessNumberGame\\GuessNumberGame\\Program.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\GuessNumberGame\\GuessNumberGame\\Program.cs",
               "RelativeToolTip": "GuessNumberGame\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAIwBsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCMAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T12:37:35.294Z",
               "EditorCaption": ""
