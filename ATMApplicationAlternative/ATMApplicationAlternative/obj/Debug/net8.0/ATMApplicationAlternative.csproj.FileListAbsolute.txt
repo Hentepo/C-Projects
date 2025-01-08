@@ -1,0 +1,14 @@
+C:\Users\TheHe\source\repos\ATMApplicationAlternative\ATMApplicationAlternative\obj\Debug\net8.0\ATMApplicationAlternative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheHe\source\repos\ATMApplicationAlternative\ATMApplicationAlternative\obj\Debug\net8.0\ATMApplicationAlternative.AssemblyInfoInputs.cache
+C:\Users\TheHe\source\repos\ATMApplicationAlternative\ATMApplicationAlternative\obj\Debug\net8.0\ATMApplicationAlternative.AssemblyInfo.cs
+C:\Users\TheHe\source\repos\ATMApplicationAlternative\ATMApplicationAlternative\obj\Debug\net8.0\ATMApplicationAlternative.csproj.CoreCompileInputs.cache
+C:\Users\TheHe\source\repos\ATMApplicationAlternative\ATMApplicationAlternative\bin\Debug\net8.0\ATMApplicationAlternative.exe
+C:\Users\TheHe\source\repos\ATMApplicationAlternative\ATMApplicationAlternative\bin\Debug\net8.0\ATMApplicationAlternative.deps.json
+C:\Users\TheHe\source\repos\ATMApplicationAlternative\ATMApplicationAlternative\bin\Debug\net8.0\ATMApplicationAlternative.runtimeconfig.json
+C:\Users\TheHe\source\repos\ATMApplicationAlternative\ATMApplicationAlternative\bin\Debug\net8.0\ATMApplicationAlternative.dll
+C:\Users\TheHe\source\repos\ATMApplicationAlternative\ATMApplicationAlternative\bin\Debug\net8.0\ATMApplicationAlternative.pdb
+C:\Users\TheHe\source\repos\ATMApplicationAlternative\ATMApplicationAlternative\obj\Debug\net8.0\ATMApplicationAlternative.dll
+C:\Users\TheHe\source\repos\ATMApplicationAlternative\ATMApplicationAlternative\obj\Debug\net8.0\refint\ATMApplicationAlternative.dll
+C:\Users\TheHe\source\repos\ATMApplicationAlternative\ATMApplicationAlternative\obj\Debug\net8.0\ATMApplicationAlternative.pdb
+C:\Users\TheHe\source\repos\ATMApplicationAlternative\ATMApplicationAlternative\obj\Debug\net8.0\ATMApplicationAlternative.genruntimeconfig.cache
+C:\Users\TheHe\source\repos\ATMApplicationAlternative\ATMApplicationAlternative\obj\Debug\net8.0\ref\ATMApplicationAlternative.dll
