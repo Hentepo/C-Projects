@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TheHe\\source\\repos\\ATMApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{615540C2-CC85-4392-B8AB-37C2C1F74D92}|ATMApplication\\ATMApplication.csproj|c:\\users\\thehe\\source\\repos\\atmapplication\\atmapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615540C2-CC85-4392-B8AB-37C2C1F74D92}|ATMApplication\\ATMApplication.csproj|solutionrelative:atmapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 229,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\source\\repos\\ATMApplication\\ATMApplication\\Program.cs",
+              "RelativeDocumentMoniker": "ATMApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\TheHe\\source\\repos\\ATMApplication\\ATMApplication\\Program.cs",
+              "RelativeToolTip": "ATMApplication\\Program.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAAJwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:53:59.704Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 171,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
