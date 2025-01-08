@@ -48,6 +48,7 @@ while (true)
     {
         Console.WriteLine($"Input a numberic value");
         Console.WriteLine("Please, try again");
+        Console.WriteLine("Test");
         Console.WriteLine("");
     }
 }
