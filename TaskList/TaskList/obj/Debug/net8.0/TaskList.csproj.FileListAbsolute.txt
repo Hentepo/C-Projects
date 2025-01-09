@@ -1,0 +1,15 @@
+C:\Users\TheHe\Documents\GitHub\C-Projects\TaskList\TaskList\bin\Debug\net8.0\TaskList.exe
+C:\Users\TheHe\Documents\GitHub\C-Projects\TaskList\TaskList\bin\Debug\net8.0\TaskList.deps.json
+C:\Users\TheHe\Documents\GitHub\C-Projects\TaskList\TaskList\bin\Debug\net8.0\TaskList.runtimeconfig.json
+C:\Users\TheHe\Documents\GitHub\C-Projects\TaskList\TaskList\bin\Debug\net8.0\TaskList.dll
+C:\Users\TheHe\Documents\GitHub\C-Projects\TaskList\TaskList\bin\Debug\net8.0\TaskList.pdb
+C:\Users\TheHe\Documents\GitHub\C-Projects\TaskList\TaskList\obj\Debug\net8.0\TaskList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheHe\Documents\GitHub\C-Projects\TaskList\TaskList\obj\Debug\net8.0\TaskList.AssemblyInfoInputs.cache
+C:\Users\TheHe\Documents\GitHub\C-Projects\TaskList\TaskList\obj\Debug\net8.0\TaskList.AssemblyInfo.cs
+C:\Users\TheHe\Documents\GitHub\C-Projects\TaskList\TaskList\obj\Debug\net8.0\TaskList.csproj.CoreCompileInputs.cache
+C:\Users\TheHe\Documents\GitHub\C-Projects\TaskList\TaskList\obj\Debug\net8.0\TaskList.sourcelink.json
+C:\Users\TheHe\Documents\GitHub\C-Projects\TaskList\TaskList\obj\Debug\net8.0\TaskList.dll
+C:\Users\TheHe\Documents\GitHub\C-Projects\TaskList\TaskList\obj\Debug\net8.0\refint\TaskList.dll
+C:\Users\TheHe\Documents\GitHub\C-Projects\TaskList\TaskList\obj\Debug\net8.0\TaskList.pdb
+C:\Users\TheHe\Documents\GitHub\C-Projects\TaskList\TaskList\obj\Debug\net8.0\TaskList.genruntimeconfig.cache
+C:\Users\TheHe\Documents\GitHub\C-Projects\TaskList\TaskList\obj\Debug\net8.0\ref\TaskList.dll
