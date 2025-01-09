@@ -40,9 +40,10 @@
               "RelativeDocumentMoniker": "TaskList\\Tasklist.cs",
               "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\TaskList\\TaskList\\Tasklist.cs",
               "RelativeToolTip": "TaskList\\Tasklist.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T10:36:13.556Z"
+              "WhenOpened": "2025-01-09T10:36:13.556Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -52,7 +53,7 @@
               "RelativeDocumentMoniker": "TaskList\\Program.cs",
               "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\TaskList\\TaskList\\Program.cs",
               "RelativeToolTip": "TaskList\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAlwEUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T10:35:08.591Z",
               "EditorCaption": ""
