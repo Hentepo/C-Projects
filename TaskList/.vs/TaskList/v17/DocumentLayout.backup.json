@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 229,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,6 +29,10 @@
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Tasklist.cs",
@@ -36,7 +40,7 @@
               "RelativeDocumentMoniker": "TaskList\\Tasklist.cs",
               "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\TaskList\\TaskList\\Tasklist.cs",
               "RelativeToolTip": "TaskList\\Tasklist.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T10:36:13.556Z",
               "EditorCaption": ""
@@ -47,9 +51,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\TaskList\\TaskList\\Program.cs",
               "RelativeDocumentMoniker": "TaskList\\Program.cs",
-              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\TaskList\\TaskList\\Program.cs*",
-              "RelativeToolTip": "TaskList\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\TaskList\\TaskList\\Program.cs",
+              "RelativeToolTip": "TaskList\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T10:35:08.591Z",
               "EditorCaption": ""
