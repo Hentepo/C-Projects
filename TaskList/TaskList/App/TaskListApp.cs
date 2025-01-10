@@ -38,21 +38,34 @@ while (true)
 
     if (option == 1)
     {
-        Console.WriteLine();
-        Console.WriteLine("Your current tasks are: ");
-        Console.WriteLine("--------------------------------------------");
-        foreach (Tasks item in list)
+        if (list.Count == 0)
         {
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine($"Task Name: {item.TaskName}");
-            Console.WriteLine();
-            Console.WriteLine($"Due date: {item.DueDate}");
-            Console.WriteLine();
-            Console.WriteLine($"Task Description: {item.TaskDescription}");
-            Console.ForegroundColor = ConsoleColor.White;
-            Console.WriteLine("--------------------------------------------");
+            Console.WriteLine("You have no tasks! Have a nice day!");
+            Utility.PressEnterToContinue();
+            continue;
         }
-    Utility.PressEnterToContinue();
+        else 
+        {
+
+            Console.WriteLine();
+            Console.WriteLine("Your current tasks are: ");
+            Console.WriteLine("--------------------------------------------");
+
+            foreach (Tasks item in list)
+            {
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine($"Task Name: {item.TaskName}");
+                Console.WriteLine();
+                Console.WriteLine($"Due date: {item.DueDate}");
+                Console.WriteLine();
+                Console.WriteLine($"Task Description: {item.TaskDescription}");
+                Console.ForegroundColor = ConsoleColor.White;
+                Console.WriteLine("--------------------------------------------");
+            }
+            Utility.PressEnterToContinue();
+            continue;
+        }
+
     }
 
     if (option == 2)
@@ -100,16 +113,40 @@ while (true)
     if (option == 3)
     {
         Console.WriteLine($"What task you would like to remove?");
+
+        foreach (Tasks item in list)
+        {
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine($"{item.TaskName}");
+            Console.WriteLine();
+        }
+
+        Console.ForegroundColor = ConsoleColor.White;
+
         tempString1 = Console.ReadLine();
 
-        Console.ForegroundColor = ConsoleColor.Green;
-        Console.WriteLine();
-        Console.WriteLine($"Added {tempString1} to MyTaskList!");
-        Console.ForegroundColor = ConsoleColor.White;
-        Utility.PressEnterToContinue();
+        foreach (var (value,i) in list.Select((value, i) => (value, i)))
+        {
+            if (tempString1 == list[i].TaskName)
+                {
+                    list.Remove(list[i]);
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine();
+                    Console.WriteLine($"Removed {tempString1} from MyTaskList!");
+                    Console.ForegroundColor = ConsoleColor.White;
+                    Utility.PressEnterToContinue();
+                    break;
+                }
+            else 
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine("Task not found!");
+                Console.ForegroundColor = ConsoleColor.White;
+                Utility.PressEnterToContinue();
+                break;
+            }
+        }
     }
-
-
 
     else if (option == 4)
     {

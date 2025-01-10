@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{E19D011E-80E6-4C79-A190-AF686FF52DA8}|TaskList\\TaskList.csproj|solutionrelative:tasklist\\app\\tasklistapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E19D011E-80E6-4C79-A190-AF686FF52DA8}|TaskList\\TaskList.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\tasklist\\tasklist\\tasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E19D011E-80E6-4C79-A190-AF686FF52DA8}|TaskList\\TaskList.csproj|solutionrelative:tasklist\\tasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E19D011E-80E6-4C79-A190-AF686FF52DA8}|TaskList\\TaskList.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\tasklist\\tasklist\\appscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E19D011E-80E6-4C79-A190-AF686FF52DA8}|TaskList\\TaskList.csproj|solutionrelative:tasklist\\appscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E19D011E-80E6-4C79-A190-AF686FF52DA8}|TaskList\\TaskList.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\tasklist\\tasklist\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E19D011E-80E6-4C79-A190-AF686FF52DA8}|TaskList\\TaskList.csproj|solutionrelative:tasklist\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E19D011E-80E6-4C79-A190-AF686FF52DA8}|TaskList\\TaskList.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\tasklist\\tasklist\\appscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E19D011E-80E6-4C79-A190-AF686FF52DA8}|TaskList\\TaskList.csproj|solutionrelative:tasklist\\appscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E19D011E-80E6-4C79-A190-AF686FF52DA8}|TaskList\\TaskList.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\tasklist\\tasklist\\tasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E19D011E-80E6-4C79-A190-AF686FF52DA8}|TaskList\\TaskList.csproj|solutionrelative:tasklist\\tasklist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E19D011E-80E6-4C79-A190-AF686FF52DA8}|TaskList\\TaskList.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\tasklist\\tasklist\\tasklist.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "TaskList\\Utility.cs",
               "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\TaskList\\TaskList\\Utility.cs",
               "RelativeToolTip": "TaskList\\Utility.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T14:40:14.145Z",
               "EditorCaption": ""
@@ -71,20 +71,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "AppScreen.cs",
               "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\TaskList\\TaskList\\AppScreen.cs",
               "RelativeDocumentMoniker": "TaskList\\AppScreen.cs",
               "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\TaskList\\TaskList\\AppScreen.cs",
               "RelativeToolTip": "TaskList\\AppScreen.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBMAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T14:07:48.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Tasklist.cs",
               "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\TaskList\\TaskList\\Tasklist.cs",
               "RelativeDocumentMoniker": "TaskList\\Tasklist.cs",
@@ -92,8 +92,7 @@
               "RelativeToolTip": "TaskList\\Tasklist.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T10:36:13.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T10:36:13.556Z"
             },
             {
               "$type": "Document",
@@ -103,7 +102,7 @@
               "RelativeDocumentMoniker": "TaskList\\App\\TaskListApp.cs",
               "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\TaskList\\TaskList\\App\\TaskListApp.cs",
               "RelativeToolTip": "TaskList\\App\\TaskListApp.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAQwGYAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAkwCwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T10:35:08.591Z",
               "EditorCaption": ""
