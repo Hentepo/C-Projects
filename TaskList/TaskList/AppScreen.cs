@@ -17,6 +17,7 @@ namespace TaskList
             Console.WriteLine(":1. Check Tasks                        :");
             Console.WriteLine(":2. Add Task                           :");
             Console.WriteLine(":3. Remove Task                        :");
+            Console.WriteLine(":4. Exit                               :");
         }
         internal static void Welcome()
         {
