@@ -8,18 +8,32 @@ namespace MetalMusicQuiz
 {
     public class Utility
     {
-
-        public string GetUserInput(string prompt)
+        public static string GetUserInput(string prompt)
         {
             Console.WriteLine($"Enter {prompt}");
             return Console.ReadLine();
         }
 
-        public void PressEnterToContinue()
+        public static void PressEnterToContinue()
         {
             Console.WriteLine("Press Enter to Continue");
             Console.ReadLine();
         }
+        public static void PrintMessage(string msg, bool success)
+        {
+            if (success)
+            {
+                Console.ForegroundColor = ConsoleColor.Green;
+            }
 
+            else 
+            {
+                Console.ForegroundColor = ConsoleColor.Red;
+            }
+            Console.WriteLine();
+            Console.WriteLine(msg);
+            Console.ForegroundColor = ConsoleColor.White;
+            PressEnterToContinue();
+        }
     }
 }

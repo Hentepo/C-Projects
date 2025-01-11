@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MetalMusicQuiz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1d50492a0724e43095f5ec2d22520c2be7b4b01")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+414e1715c388426e7f27071d9c866f54db01026a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MetalMusicQuiz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MetalMusicQuiz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
