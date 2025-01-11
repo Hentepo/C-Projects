@@ -1,0 +1,15 @@
+C:\Users\TheHe\Documents\GitHub\C-Projects\MetalMusicQuiz\MetalMusicQuiz\bin\Debug\net8.0\MetalMusicQuiz.exe
+C:\Users\TheHe\Documents\GitHub\C-Projects\MetalMusicQuiz\MetalMusicQuiz\bin\Debug\net8.0\MetalMusicQuiz.deps.json
+C:\Users\TheHe\Documents\GitHub\C-Projects\MetalMusicQuiz\MetalMusicQuiz\bin\Debug\net8.0\MetalMusicQuiz.runtimeconfig.json
+C:\Users\TheHe\Documents\GitHub\C-Projects\MetalMusicQuiz\MetalMusicQuiz\bin\Debug\net8.0\MetalMusicQuiz.dll
+C:\Users\TheHe\Documents\GitHub\C-Projects\MetalMusicQuiz\MetalMusicQuiz\bin\Debug\net8.0\MetalMusicQuiz.pdb
+C:\Users\TheHe\Documents\GitHub\C-Projects\MetalMusicQuiz\MetalMusicQuiz\obj\Debug\net8.0\MetalMusicQuiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheHe\Documents\GitHub\C-Projects\MetalMusicQuiz\MetalMusicQuiz\obj\Debug\net8.0\MetalMusicQuiz.AssemblyInfoInputs.cache
+C:\Users\TheHe\Documents\GitHub\C-Projects\MetalMusicQuiz\MetalMusicQuiz\obj\Debug\net8.0\MetalMusicQuiz.AssemblyInfo.cs
+C:\Users\TheHe\Documents\GitHub\C-Projects\MetalMusicQuiz\MetalMusicQuiz\obj\Debug\net8.0\MetalMusicQuiz.csproj.CoreCompileInputs.cache
+C:\Users\TheHe\Documents\GitHub\C-Projects\MetalMusicQuiz\MetalMusicQuiz\obj\Debug\net8.0\MetalMusicQuiz.sourcelink.json
+C:\Users\TheHe\Documents\GitHub\C-Projects\MetalMusicQuiz\MetalMusicQuiz\obj\Debug\net8.0\MetalMusicQuiz.dll
+C:\Users\TheHe\Documents\GitHub\C-Projects\MetalMusicQuiz\MetalMusicQuiz\obj\Debug\net8.0\refint\MetalMusicQuiz.dll
+C:\Users\TheHe\Documents\GitHub\C-Projects\MetalMusicQuiz\MetalMusicQuiz\obj\Debug\net8.0\MetalMusicQuiz.pdb
+C:\Users\TheHe\Documents\GitHub\C-Projects\MetalMusicQuiz\MetalMusicQuiz\obj\Debug\net8.0\MetalMusicQuiz.genruntimeconfig.cache
+C:\Users\TheHe\Documents\GitHub\C-Projects\MetalMusicQuiz\MetalMusicQuiz\obj\Debug\net8.0\ref\MetalMusicQuiz.dll
