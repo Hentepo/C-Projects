@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{49738F09-6DB0-4D8F-ACC0-0843DD439A36}|MetalMusicQuiz\\MetalMusicQuiz.csproj|solutionrelative:metalmusicquiz\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{49738F09-6DB0-4D8F-ACC0-0843DD439A36}|MetalMusicQuiz\\MetalMusicQuiz.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\metalmusicquiz\\metalmusicquiz\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49738F09-6DB0-4D8F-ACC0-0843DD439A36}|MetalMusicQuiz\\MetalMusicQuiz.csproj|solutionrelative:metalmusicquiz\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{49738F09-6DB0-4D8F-ACC0-0843DD439A36}|MetalMusicQuiz\\MetalMusicQuiz.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\metalmusicquiz\\metalmusicquiz\\appscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49738F09-6DB0-4D8F-ACC0-0843DD439A36}|MetalMusicQuiz\\MetalMusicQuiz.csproj|solutionrelative:metalmusicquiz\\appscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 229,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MetalMusicQuiz\\MetalMusicQuiz\\Database.cs",
+              "RelativeDocumentMoniker": "MetalMusicQuiz\\Database.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MetalMusicQuiz\\MetalMusicQuiz\\Database.cs",
+              "RelativeToolTip": "MetalMusicQuiz\\Database.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T08:58:54.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AppScreen.cs",
               "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MetalMusicQuiz\\MetalMusicQuiz\\AppScreen.cs",
               "RelativeDocumentMoniker": "MetalMusicQuiz\\AppScreen.cs",
@@ -57,7 +74,7 @@
               "RelativeDocumentMoniker": "MetalMusicQuiz\\Utility.cs",
               "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MetalMusicQuiz\\MetalMusicQuiz\\Utility.cs",
               "RelativeToolTip": "MetalMusicQuiz\\Utility.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T08:07:07.301Z",
               "EditorCaption": ""
@@ -70,7 +87,7 @@
               "RelativeDocumentMoniker": "MetalMusicQuiz\\Program.cs",
               "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MetalMusicQuiz\\MetalMusicQuiz\\Program.cs",
               "RelativeToolTip": "MetalMusicQuiz\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T08:05:51.878Z",
               "EditorCaption": ""
