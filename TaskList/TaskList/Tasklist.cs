@@ -13,5 +13,13 @@ namespace TaskList
         public string TaskName { get; set; }
         public DateTime DueDate { get; set; }
         public string TaskDescription { get; set; }
+
+    public Tasks(string taskName, string taskDescription, DateTime dueDate)
+        {
+            TaskName = taskName;
+            TaskDescription = taskDescription;
+            DueDate = dueDate;
+        }
+
     }
 }
