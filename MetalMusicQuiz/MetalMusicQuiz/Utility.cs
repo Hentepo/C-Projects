@@ -35,5 +35,13 @@ namespace MetalMusicQuiz
             Console.ForegroundColor = ConsoleColor.White;
             PressEnterToContinue();
         }
+
+        public static int generateNumber()
+        {
+            Random rnd = new Random();
+
+            int rndnum = rnd.Next(1, 5);
+            return rndnum;
+        }
     }
 }

@@ -5,10 +5,7 @@ using MetalMusicQuiz;
 string userName = null;
 int questionCount = 1;
 
-string question;
-
-
-
+int question;
 
 //Start program
 Console.ForegroundColor = ConsoleColor.White;
@@ -29,11 +26,57 @@ while (true)
         Console.WriteLine("Welcome " + userName + "!");
         Utility.PressEnterToContinue();
         Database.correctAnswerCount = 0;
-        Console.WriteLine("-------------------------");
-        Console.WriteLine("Question " + Convert.ToString(questionCount));
-        Database.Question1();
-        Utility.PressEnterToContinue();
-        Database.Question2();
+
+        while (questionCount <6) 
+        {
+
+            question = Utility.generateNumber();
+
+            if (question == 1)
+            {
+                Console.WriteLine("-------------------------");
+                Console.WriteLine("Question " + Convert.ToString(questionCount));
+                Database.Question1();
+                Utility.PressEnterToContinue();
+                questionCount ++;
+            }
+
+            else if (question == 2)
+            {
+                Console.WriteLine("-------------------------");
+                Console.WriteLine("Question " + Convert.ToString(questionCount));
+                Database.Question2();
+                Utility.PressEnterToContinue();
+                questionCount++;
+            }
+
+            else if (question == 3)
+            {
+                Console.WriteLine("-------------------------");
+                Console.WriteLine("Question " + Convert.ToString(questionCount));
+                Database.Question3();
+                Utility.PressEnterToContinue();
+                questionCount++;
+            }
+
+            else if (question == 4)
+            {
+                Console.WriteLine("-------------------------");
+                Console.WriteLine("Question " + Convert.ToString(questionCount));
+                Database.Question4();
+                Utility.PressEnterToContinue();
+                questionCount++;
+            }
+
+            else if (question == 5)
+            {
+                Console.WriteLine("-------------------------");
+                Console.WriteLine("Question " + Convert.ToString(questionCount));
+                Database.Question5();
+                Utility.PressEnterToContinue();
+                questionCount++;
+            }
+        }
 
         if (Database.correctAnswerCount == 0)
         {
