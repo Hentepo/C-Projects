@@ -34,6 +34,7 @@ namespace MetalMusicQuiz
                 }
                 else
                 {
+                    //Correct answer
                     if (answer == "b" || answer == "B")
                     {
                         Console.ForegroundColor = ConsoleColor.Green;
@@ -73,6 +74,7 @@ namespace MetalMusicQuiz
                 }
                 else
                 {
+                    //Correct answer
                     if (answer == "a" || answer == "A")
                     {
                         Console.ForegroundColor = ConsoleColor.Green;
@@ -91,7 +93,6 @@ namespace MetalMusicQuiz
                 }
             }
         }
-
         public static void Question3()
         {
             while (true)
@@ -113,6 +114,7 @@ namespace MetalMusicQuiz
                 }
                 else
                 {
+                    //Correct answer
                     if (answer == "c" || answer == "C")
                     {
                         Console.ForegroundColor = ConsoleColor.Green;
@@ -131,7 +133,6 @@ namespace MetalMusicQuiz
                 }
             }
         }
-
 
         public static void Question4()
         {
@@ -154,6 +155,7 @@ namespace MetalMusicQuiz
                 }
                 else
                 {
+                    //Correct answer
                     if (answer == "b" || answer == "B")
                     {
                         Console.ForegroundColor = ConsoleColor.Green;
@@ -194,6 +196,7 @@ namespace MetalMusicQuiz
                 }
                 else
                 {
+                    //Correct answer
                     if (answer == "b" || answer == "B")
                     {
                         Console.ForegroundColor = ConsoleColor.Green;
@@ -213,6 +216,209 @@ namespace MetalMusicQuiz
             }
         }
 
+        public static void Question6()
+        {
+            while (true)
+            {
+                Console.WriteLine("Which Finnish folk metal band, known for incorporating traditional Finnish instruments like the kantele, released the album Spirit of the Forest in 2003?");
+                Console.WriteLine("");
+                Console.WriteLine("a) Ensiferum");
+                Console.WriteLine("b) Korpiklaani");
+                Console.WriteLine("c) Finntroll");
+                Console.WriteLine("d) Moonsorrow");
+                Console.WriteLine("");
+
+                answer = Console.ReadLine();
+
+                if (answer != "a" && answer != "b" && answer != "c" && answer != "d" && answer != "A" && answer != "B" && answer != "C" && answer != "D")
+                {
+                    Console.WriteLine("Invalid input! Please, choose ''a'', ''b'', ''c'' or ''d'' ");
+                    continue;
+                }
+                else
+                {
+                    //Correct answer
+                    if (answer == "b" || answer == "B")
+                    {
+                        Console.ForegroundColor = ConsoleColor.Green;
+                        Console.WriteLine("Correct!");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        correctAnswerCount += 1;
+                        break;
+                    }
+                    else
+                    {
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.WriteLine("Incorrect!");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        break;
+                    }
+                }
+            }
+        }
+
+        public static void Question7()
+        {
+            while (true)
+            {
+                Console.WriteLine("Which early death metal band released the groundbreaking album Seven Churches in 1985, widely regarded as one of the first death metal albums?");
+                Console.WriteLine("");
+                Console.WriteLine("a) Death");
+                Console.WriteLine("b) Possessed");
+                Console.WriteLine("c) Morbid Angel");
+                Console.WriteLine("d) Obituary");
+                Console.WriteLine("");
+
+                answer = Console.ReadLine();
+
+                if (answer != "a" && answer != "b" && answer != "c" && answer != "d" && answer != "A" && answer != "B" && answer != "C" && answer != "D")
+                {
+                    Console.WriteLine("Invalid input! Please, choose ''a'', ''b'', ''c'' or ''d'' ");
+                    continue;
+                }
+                else
+                {
+                    //Correct answer
+                    if (answer == "b" || answer == "B")
+                    {
+                        Console.ForegroundColor = ConsoleColor.Green;
+                        Console.WriteLine("Correct!");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        correctAnswerCount += 1;
+                        break;
+                    }
+                    else
+                    {
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.WriteLine("Incorrect!");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        break;
+                    }
+                }
+            }
+        }
+        public static void Question8()
+        {
+            while (true)
+            {
+                Console.WriteLine("Which 1990 album by the thrash metal band Megadeth features politically charged tracks like \"Holy Wars... The Punishment Due\" and \"Hangar 18\"?");
+                Console.WriteLine("");
+                Console.WriteLine("a) Death");
+                Console.WriteLine("b) Possessed");
+                Console.WriteLine("c) Morbid Angel");
+                Console.WriteLine("d) Obituary");
+                Console.WriteLine("");
+
+                answer = Console.ReadLine();
+
+                if (answer != "a" && answer != "b" && answer != "c" && answer != "d" && answer != "A" && answer != "B" && answer != "C" && answer != "D")
+                {
+                    Console.WriteLine("Invalid input! Please, choose ''a'', ''b'', ''c'' or ''d'' ");
+                    continue;
+                }
+                else
+                {
+                    //Correct answer
+                    if (answer == "a" || answer == "A")
+                    {
+                        Console.ForegroundColor = ConsoleColor.Green;
+                        Console.WriteLine("Correct!");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        correctAnswerCount += 1;
+                        break;
+                    }
+                    else
+                    {
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.WriteLine("Incorrect!");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        break;
+                    }
+                }
+            }
+        }
+
+        public static void Question9()
+        {
+            while (true)
+            {
+                Console.WriteLine("Which Norwegian black metal band, led by Ihsahn, released the iconic album In the Nightside Eclipse in 1994?");
+                Console.WriteLine("");
+                Console.WriteLine("a) Mayhem");
+                Console.WriteLine("b) Emperor");
+                Console.WriteLine("c) Immortal");
+                Console.WriteLine("d) Gorgoroth");
+                Console.WriteLine("");
+
+                answer = Console.ReadLine();
+
+                if (answer != "a" && answer != "b" && answer != "c" && answer != "d" && answer != "A" && answer != "B" && answer != "C" && answer != "D")
+                {
+                    Console.WriteLine("Invalid input! Please, choose ''a'', ''b'', ''c'' or ''d'' ");
+                    continue;
+                }
+                else
+                {
+                    //Correct answer
+                    if (answer == "b" || answer == "B")
+                    {
+                        Console.ForegroundColor = ConsoleColor.Green;
+                        Console.WriteLine("Correct!");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        correctAnswerCount += 1;
+                        break;
+                    }
+                    else
+                    {
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.WriteLine("Incorrect!");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        break;
+                    }
+                }
+            }
+        }
+
+        public static void Question10()
+        {
+            while (true)
+            {
+                Console.WriteLine("Which folk metal band from Northern Europe is known for their 2007 album Victory Songs, featuring epic themes and the use of traditional folk melodies?");
+                Console.WriteLine("");
+                Console.WriteLine("a) Eluveitie");
+                Console.WriteLine("b) Turisas");
+                Console.WriteLine("c) Ensiferum");
+                Console.WriteLine("d) Heidevolk");
+                Console.WriteLine("");
+
+                answer = Console.ReadLine();
+
+                if (answer != "a" && answer != "b" && answer != "c" && answer != "d" && answer != "A" && answer != "B" && answer != "C" && answer != "D")
+                {
+                    Console.WriteLine("Invalid input! Please, choose ''a'', ''b'', ''c'' or ''d'' ");
+                    continue;
+                }
+                else
+                {
+                    //Correct answer
+                    if (answer == "c" || answer == "C")
+                    {
+                        Console.ForegroundColor = ConsoleColor.Green;
+                        Console.WriteLine("Correct!");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        correctAnswerCount += 1;
+                        break;
+                    }
+                    else
+                    {
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.WriteLine("Incorrect!");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        break;
+                    }
+                }
+            }
+        }
 
     }
 }

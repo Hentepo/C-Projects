@@ -1,13 +1,23 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.Design;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace MetalMusicQuiz
 {
+
+
+
     public class Utility
     {
+
+        internal static int rndnum;
+
+        internal static List<int> list = new List<int>();
+        internal static Random rnd = new Random();
+
         public static string GetUserInput(string prompt)
         {
             Console.WriteLine($"Enter {prompt}");
@@ -38,10 +48,16 @@ namespace MetalMusicQuiz
 
         public static int generateNumber()
         {
-            Random rnd = new Random();
+            do
+            {
+                rndnum = rnd.Next(1, 11);
+            }
+            while (list.Contains(rndnum));
 
-            int rndnum = rnd.Next(1, 5);
+            list.Add(rndnum);
+
             return rndnum;
         }
     }
 }
+
