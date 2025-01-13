@@ -1,0 +1,15 @@
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherApp\MyWeatherApp\obj\Debug\net8.0\MyWeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherApp\MyWeatherApp\obj\Debug\net8.0\MyWeatherApp.AssemblyInfoInputs.cache
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherApp\MyWeatherApp\obj\Debug\net8.0\MyWeatherApp.AssemblyInfo.cs
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherApp\MyWeatherApp\obj\Debug\net8.0\MyWeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherApp\MyWeatherApp\obj\Debug\net8.0\MyWeatherApp.sourcelink.json
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherApp\MyWeatherApp\bin\Debug\net8.0\MyWeatherApp.exe
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherApp\MyWeatherApp\bin\Debug\net8.0\MyWeatherApp.deps.json
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherApp\MyWeatherApp\bin\Debug\net8.0\MyWeatherApp.runtimeconfig.json
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherApp\MyWeatherApp\bin\Debug\net8.0\MyWeatherApp.dll
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherApp\MyWeatherApp\bin\Debug\net8.0\MyWeatherApp.pdb
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherApp\MyWeatherApp\obj\Debug\net8.0\MyWeatherApp.dll
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherApp\MyWeatherApp\obj\Debug\net8.0\refint\MyWeatherApp.dll
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherApp\MyWeatherApp\obj\Debug\net8.0\MyWeatherApp.pdb
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherApp\MyWeatherApp\obj\Debug\net8.0\MyWeatherApp.genruntimeconfig.cache
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherApp\MyWeatherApp\obj\Debug\net8.0\ref\MyWeatherApp.dll

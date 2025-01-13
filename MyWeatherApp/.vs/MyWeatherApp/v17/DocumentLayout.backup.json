@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9752D0-B64C-49DE-8220-07CA1C0565B5}|MyWeatherApp\\MyWeatherApp.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\myweatherapp\\myweatherapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9752D0-B64C-49DE-8220-07CA1C0565B5}|MyWeatherApp\\MyWeatherApp.csproj|solutionrelative:myweatherapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9752D0-B64C-49DE-8220-07CA1C0565B5}|MyWeatherApp\\MyWeatherApp.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\myweatherapp\\myweatherapp\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B9752D0-B64C-49DE-8220-07CA1C0565B5}|MyWeatherApp\\MyWeatherApp.csproj|solutionrelative:myweatherapp\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B9752D0-B64C-49DE-8220-07CA1C0565B5}|MyWeatherApp\\MyWeatherApp.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\myweatherapp\\myweatherapp\\myweatherapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B9752D0-B64C-49DE-8220-07CA1C0565B5}|MyWeatherApp\\MyWeatherApp.csproj|solutionrelative:myweatherapp\\myweatherapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 229,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyWeatherApp",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherApp\\MyWeatherApp\\MyWeatherApp.csproj",
+              "RelativeDocumentMoniker": "MyWeatherApp\\MyWeatherApp.csproj",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherApp\\MyWeatherApp\\MyWeatherApp.csproj",
+              "RelativeToolTip": "MyWeatherApp\\MyWeatherApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-13T07:45:37.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherApp\\MyWeatherApp\\Utility.cs",
+              "RelativeDocumentMoniker": "MyWeatherApp\\Utility.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherApp\\MyWeatherApp\\Utility.cs",
+              "RelativeToolTip": "MyWeatherApp\\Utility.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T07:45:58.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherApp\\MyWeatherApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyWeatherApp\\Program.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherApp\\MyWeatherApp\\Program.cs",
+              "RelativeToolTip": "MyWeatherApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T07:45:30.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 171,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
