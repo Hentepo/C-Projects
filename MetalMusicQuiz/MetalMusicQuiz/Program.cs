@@ -3,20 +3,16 @@ using MetalMusicQuiz;
 
 //Initial values
 string userName = null;
+string filePath = "data.txt";
+string score;
+//string[] lines = File.ReadAllLines(filePath);
+
 int questionCount = 1;
 
 int question;
 
-bool question1 = false;
-bool question2 = false;
-bool question3 = false;
-bool question4 = false;
-bool question5 = false;
-bool question6 = false;
-bool question7 = false;
-bool question8 = false;
-bool question9 = false;
-bool question10 = false;
+
+
 
 //Start program
 Console.ForegroundColor = ConsoleColor.White;
@@ -41,6 +37,8 @@ while (true)
             Console.WriteLine("Welcome " + userName + "!");
             Utility.PressEnterToContinue();
             Database.correctAnswerCount = 0;
+            questionCount = 1;
+            Utility.list.Clear();
 
             while (questionCount < 6)
             {
@@ -54,7 +52,6 @@ while (true)
                     Database.Question1();
                     Utility.PressEnterToContinue();
                     questionCount++;
-                    question1 = true;
                 }
 
                 else if (question == 2)
@@ -64,7 +61,6 @@ while (true)
                     Database.Question2();
                     Utility.PressEnterToContinue();
                     questionCount++;
-                    question2 = true;
                 }
 
                 else if (question == 3)
@@ -74,7 +70,6 @@ while (true)
                     Database.Question3();
                     Utility.PressEnterToContinue();
                     questionCount++;
-                    question3 = true;
                 }
 
                 else if (question == 4)
@@ -84,7 +79,6 @@ while (true)
                     Database.Question4();
                     Utility.PressEnterToContinue();
                     questionCount++;
-                    question4 = true;
                 }
 
                 else if (question == 5)
@@ -94,7 +88,6 @@ while (true)
                     Database.Question5();
                     Utility.PressEnterToContinue();
                     questionCount++;
-                    question5 = true;
                 }
 
                 else if (question == 6)
@@ -104,7 +97,6 @@ while (true)
                     Database.Question6();
                     Utility.PressEnterToContinue();
                     questionCount++;
-                    question6 = true;
                 }
 
                 else if (question == 7)
@@ -114,7 +106,6 @@ while (true)
                     Database.Question7();
                     Utility.PressEnterToContinue();
                     questionCount++;
-                    question7 = true;
                 }
 
                 else if (question == 8)
@@ -124,7 +115,6 @@ while (true)
                     Database.Question8();
                     Utility.PressEnterToContinue();
                     questionCount++;
-                    question8 = true;
                 }
 
                 else if (question == 9)
@@ -134,7 +124,6 @@ while (true)
                     Database.Question9();
                     Utility.PressEnterToContinue();
                     questionCount++;
-                    question9 = true;
                 }
 
                 else if (question == 10)
@@ -144,7 +133,6 @@ while (true)
                     Database.Question10();
                     Utility.PressEnterToContinue();
                     questionCount++;
-                    question10 = true;
                 }
             }
 
@@ -155,14 +143,62 @@ while (true)
             else
             {
                 Utility.PrintMessage("Your score is " + Convert.ToString(Database.correctAnswerCount), true);
+                File.AppendAllText(filePath,"\n" + userName + ": " + Database.correctAnswerCount + " points");
             }
-            break;
+            continue;
+        }
+        else if (option == 2)
+        {
+            string[] lines = File.ReadAllLines(filePath);
+
+            foreach (var line in lines)
+            {
+                if (line.EndsWith("5 points"))
+                {
+                    Console.WriteLine(line);
+                }
+            }
+
+            foreach (var line in lines)
+            {
+                if (line.EndsWith("4 points"))
+                {
+                    Console.WriteLine(line);
+                }
+            }
+
+            foreach (var line in lines)
+            {
+                if (line.EndsWith("3 points"))
+                {
+                    Console.WriteLine(line);
+                }
+            }
+
+            foreach (var line in lines)
+            {
+                if (line.EndsWith("2 points"))
+                {
+                    Console.WriteLine(line);
+                }
+            }
+
+            foreach (var line in lines)
+            {
+                if (line.EndsWith("1 points"))
+                {
+                    Console.WriteLine(line);
+                }
+            }
+            Utility.PressEnterToContinue();
+            continue;
         }
         if (option == 3)
         {
             if (userName != null)
             {
-                Console.WriteLine("See you next time!" + userName);
+                Console.WriteLine("See you next time! " + userName);
+                break;
             }
             else
             {

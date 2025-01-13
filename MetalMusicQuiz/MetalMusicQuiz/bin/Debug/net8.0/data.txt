@@ -1,0 +1,14 @@
+abc: 5 points
+abc: 3 points
+abc: 5 points
+abc1: 5 points
+: 2 points
+abc2: 1 points
+abc3: 2 points
+abc5: 1 points
+abc6: 1 points
+abc7: 3 points
+abc8: 2 points
+Jöns: 1 points
+abc9: 1 points
+abc11: 1 points
