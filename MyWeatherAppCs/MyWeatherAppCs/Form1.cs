@@ -27,6 +27,7 @@ namespace MyWeatherAppCs
         private void btnSearch_Click(object sender, EventArgs e)
         {
             getWeather();
+            getForecast();
         }
 
         void getWeather()
@@ -66,19 +67,41 @@ namespace MyWeatherAppCs
         {
             using (WebClient web = new WebClient())
             {
-                string url = string.Format("https://api.openweathermap.org/data/3.0/onecall?lat={0}&lon={1}&exclude=current,minutely,hourly,alerts&appid={2}", lat, lon,APIKey);
+                string url = string.Format("https://api.openweathermap.org/data/2.5/onecall?lat={0}&lon={1}&exclude=current,minutely,hourly,alerts&appid={2}", lat, lon,APIKey);
                 var json = web.DownloadString(url);
 
+                WeatherForecast.forecastInfo forecastInfo = JsonConvert.DeserializeObject<WeatherForecast.forecastInfo>(json);
 
+               ForecastUC FUC;
 
-
+                for (int i = 0; i < 8; i++)
+                {
+                    FUC = new ForecastUC();
+                    FUC.pictureBox1.ImageLocation = "https://openweathermap.org/img/w/" + forecastInfo.daily[i].weather[0].icon + ",png";
+                    FUC.labelMainWeather.Text = forecastInfo.daily[i].weather[0].main;
+                    FUC.labelDescription.Text = forecastInfo.daily[i].weather[0].description;
+                    FUC.labelDateTime.Text = convertDateTime(forecastInfo.daily[i].dt).DayOfWeek.ToString();
+                
+                    FLP.Controls.Add(FUC);
+                }
             }
 
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
 
+        }
 
+        private void FLP_Paint(object sender, PaintEventArgs e)
+        {
 
+        }
+
+        private void labelCondition_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
 

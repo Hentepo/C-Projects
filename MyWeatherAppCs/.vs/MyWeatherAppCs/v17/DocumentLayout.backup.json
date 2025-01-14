@@ -3,35 +3,47 @@
   "WorkspaceRootPath": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherAppCs\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\myweatherappcs\\myweatherappcs\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|solutionrelative:myweatherappcs\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherAppCs\\myweatherappcs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|solutionrelative:myweatherappcs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\myweatherappcs\\myweatherappcs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherAppCs\\myweatherappcs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|solutionrelative:myweatherappcs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\myweatherappcs\\myweatherappcs\\weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherAppCs\\myweatherappcs\\weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|solutionrelative:myweatherappcs\\weatherinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\myweatherappcs\\myweatherappcs\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\myweatherappcs\\myweatherappcs\\forecastuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|solutionrelative:myweatherappcs\\forecastuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\myweatherappcs\\myweatherappcs\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|solutionrelative:myweatherappcs\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherAppCs\\myweatherappcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|solutionrelative:myweatherappcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\myweatherappcs\\myweatherappcs\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|solutionrelative:myweatherappcs\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherAppCs\\myweatherappcs\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|solutionrelative:myweatherappcs\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherAppCs\\myweatherappcs\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|solutionrelative:myweatherappcs\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MyWeatherAppCs||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\myweatherappcs\\myweatherappcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|solutionrelative:myweatherappcs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\myweatherappcs\\myweatherappcs\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|solutionrelative:myweatherappcs\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\myweatherappcs\\myweatherappcs\\forecastuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|solutionrelative:myweatherappcs\\forecastuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD6B0E0C-1512-44DB-87FB-A2DB1A400EC6}|MyWeatherAppCs\\MyWeatherAppCs.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\myweatherappcs\\myweatherappcs\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
@@ -44,7 +56,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 229,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -59,25 +71,63 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherAppCs\\MyWeatherAppCs\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "MyWeatherAppCs\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherAppCs\\MyWeatherAppCs\\WeatherForecast.cs",
-              "RelativeToolTip": "MyWeatherAppCs\\WeatherForecast.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAwwAwAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T07:54:03.737Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherAppCs\\MyWeatherAppCs\\packages.config",
+              "RelativeDocumentMoniker": "MyWeatherAppCs\\packages.config",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherAppCs\\MyWeatherAppCs\\packages.config",
+              "RelativeToolTip": "MyWeatherAppCs\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-14T08:19:32.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ForecastUC.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherAppCs\\MyWeatherAppCs\\ForecastUC.cs",
+              "RelativeDocumentMoniker": "MyWeatherAppCs\\ForecastUC.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherAppCs\\MyWeatherAppCs\\ForecastUC.cs",
+              "RelativeToolTip": "MyWeatherAppCs\\ForecastUC.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAEwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:10:23.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ForecastUC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherAppCs\\MyWeatherAppCs\\ForecastUC.cs",
+              "RelativeDocumentMoniker": "MyWeatherAppCs\\ForecastUC.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherAppCs\\MyWeatherAppCs\\ForecastUC.cs [Design]",
+              "RelativeToolTip": "MyWeatherAppCs\\ForecastUC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T08:07:12.282Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherAppCs\\MyWeatherAppCs\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "MyWeatherAppCs\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherAppCs\\MyWeatherAppCs\\WeatherForecast.cs",
+              "RelativeToolTip": "MyWeatherAppCs\\WeatherForecast.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T07:54:03.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "WeatherInfo.cs",
               "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherAppCs\\MyWeatherAppCs\\WeatherInfo.cs",
               "RelativeDocumentMoniker": "MyWeatherAppCs\\WeatherInfo.cs",
@@ -90,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "MyWeatherAppCs",
               "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherAppCs\\MyWeatherAppCs\\MyWeatherAppCs.csproj",
               "RelativeDocumentMoniker": "MyWeatherAppCs\\MyWeatherAppCs.csproj",
@@ -115,20 +165,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherAppCs\\MyWeatherAppCs\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "MyWeatherAppCs\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherAppCs\\MyWeatherAppCs\\Form1.Designer.cs",
               "RelativeToolTip": "MyWeatherAppCs\\Form1.Designer.cs",
-              "ViewState": "AgIAAPQAAAAAAAAAAAAMwAcBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T06:30:53.276Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherAppCs\\MyWeatherAppCs\\Program.cs",
               "RelativeDocumentMoniker": "MyWeatherAppCs\\Program.cs",
@@ -141,20 +191,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherAppCs\\MyWeatherAppCs\\Form1.cs",
               "RelativeDocumentMoniker": "MyWeatherAppCs\\Form1.cs",
               "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherAppCs\\MyWeatherAppCs\\Form1.cs",
               "RelativeToolTip": "MyWeatherAppCs\\Form1.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAwwEAAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAiwEYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T15:35:05.471Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyWeatherAppCs\\MyWeatherAppCs\\Form1.cs",
               "RelativeDocumentMoniker": "MyWeatherAppCs\\Form1.cs",

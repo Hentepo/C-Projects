@@ -8,13 +8,6 @@ namespace MyWeatherAppCs
 {
     class WeatherForecast
     {
-        public class daily
-        {
-            public long dt {  get; set; }
-            public temp temp { get; set; }
-            public List<weather> weather { get; set; }
-        }
-
         public class temp
         {
             public double day {  get; set; }
@@ -26,6 +19,18 @@ namespace MyWeatherAppCs
             public string icon { get; set; }
         }
 
+        public class daily
+        {
+            public long dt { get; set; }
+            public temp temp { get; set; }
+            public List<weather> weather { get; set; }
+        }
+
+        public class forecastInfo
+        {
+            public List<daily> daily { get; set; }
+
+        }
 
     }
 }

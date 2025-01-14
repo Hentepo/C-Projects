@@ -11,3 +11,4 @@ C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\obj\Deb
 C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\bin\Debug\Newtonsoft.Json.dll
 C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\bin\Debug\Newtonsoft.Json.xml
 C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\obj\Debug\MyWeathe.F568FB5B.Up2Date
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\obj\Debug\MyWeatherAppCs.ForecastUC.resources
