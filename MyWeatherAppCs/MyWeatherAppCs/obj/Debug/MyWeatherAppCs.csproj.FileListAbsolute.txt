@@ -7,3 +7,7 @@ C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\bin\Deb
 C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\bin\Debug\MyWeatherAppCs.pdb
 C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\obj\Debug\MyWeatherAppCs.exe
 C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\obj\Debug\MyWeatherAppCs.pdb
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\obj\Debug\MyWeatherAppCs.Form1.resources
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\obj\Debug\MyWeathe.F568FB5B.Up2Date
