@@ -10,10 +10,10 @@ namespace MyCatQuiz
     public class Utility
     {
 
-        internal static int rndnum;
+        //internal static int rndnum;
 
-        internal static List<int> list = new List<int>();
-        internal static Random rnd = new Random();
+        //internal static List<int> list = new List<int>();
+        //internal static Random rnd = new Random();
 
         public static string GetUserInput(string prompt)
         {
@@ -43,18 +43,18 @@ namespace MyCatQuiz
             PressEnterToContinue();
         }
 
-        public static int generateNumber()
-        {
-            do
-            {
-                rndnum = rnd.Next(1, 11);
-            }
-            while (list.Contains(rndnum));
+        //public static int generateNumber()
+        //{
+        //    do
+        //    {
+        //        rndnum = rnd.Next(1, 11);
+        //    }
+        //    while (list.Contains(rndnum));
 
-            list.Add(rndnum);
+        //    list.Add(rndnum);
 
-            return rndnum;
-        }
+        //    return rndnum;
+        //}
     }
 }
 
