@@ -1,6 +1,6 @@
 ﻿namespace MyCatQuiz
 {
-    partial class Form2
+    partial class Question2
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form2));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Question2));
             label1 = new Label();
             label2 = new Label();
             QuestionTextBox = new TextBox();
@@ -55,8 +55,7 @@
             label2.Name = "label2";
             label2.Size = new Size(487, 128);
             label2.TabIndex = 1;
-            label2.Text = "Kysymys 1";
-            label2.Click += label2_Click;
+            label2.Text = "Kysymys 2";
             // 
             // QuestionTextBox
             // 
@@ -79,6 +78,7 @@
             TextBoxa.TabIndex = 4;
             TextBoxa.Text = "button1";
             TextBoxa.UseVisualStyleBackColor = true;
+            TextBoxa.Click += TextBoxa_Click;
             // 
             // TextBoxb
             // 
@@ -89,6 +89,7 @@
             TextBoxb.TabIndex = 5;
             TextBoxb.Text = "button1";
             TextBoxb.UseVisualStyleBackColor = true;
+            TextBoxb.Click += TextBoxb_Click;
             // 
             // TextBoxc
             // 
@@ -99,6 +100,7 @@
             TextBoxc.TabIndex = 6;
             TextBoxc.Text = "button1";
             TextBoxc.UseVisualStyleBackColor = true;
+            TextBoxc.Click += TextBoxc_Click;
             // 
             // TextBoxd
             // 
@@ -109,8 +111,9 @@
             TextBoxd.TabIndex = 7;
             TextBoxd.Text = "button1";
             TextBoxd.UseVisualStyleBackColor = true;
+            TextBoxd.Click += TextBoxd_Click;
             // 
-            // Form2
+            // Form3
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -123,9 +126,9 @@
             Controls.Add(QuestionTextBox);
             Controls.Add(label2);
             Controls.Add(label1);
-            Name = "Form2";
-            Text = "Form1";
-            Load += Form2_Load;
+            Name = "Form3";
+            Text = "Form3";
+            Load += Form3_Load;
             ResumeLayout(false);
             PerformLayout();
         }

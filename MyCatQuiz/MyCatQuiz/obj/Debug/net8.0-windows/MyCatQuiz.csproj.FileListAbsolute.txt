@@ -16,4 +16,5 @@ C:\Users\TheHe\Documents\GitHub\C-Projects\MyCatQuiz\MyCatQuiz\obj\Debug\net8.0-
 C:\Users\TheHe\Documents\GitHub\C-Projects\MyCatQuiz\MyCatQuiz\obj\Debug\net8.0-windows\MyCatQuiz.genruntimeconfig.cache
 C:\Users\TheHe\Documents\GitHub\C-Projects\MyCatQuiz\MyCatQuiz\obj\Debug\net8.0-windows\ref\MyCatQuiz.dll
 C:\Users\TheHe\Documents\GitHub\C-Projects\MyCatQuiz\MyCatQuiz\obj\Debug\net8.0-windows\MyCatQuiz.Properties.Resources.resources
-C:\Users\TheHe\Documents\GitHub\C-Projects\MyCatQuiz\MyCatQuiz\obj\Debug\net8.0-windows\MyCatQuiz.Form2.resources
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyCatQuiz\MyCatQuiz\obj\Debug\net8.0-windows\MyCatQuiz.Question1.resources
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyCatQuiz\MyCatQuiz\obj\Debug\net8.0-windows\MyCatQuiz.Question2.resources
