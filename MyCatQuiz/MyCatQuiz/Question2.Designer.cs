@@ -79,6 +79,7 @@
             TextBoxa.Text = "button1";
             TextBoxa.UseVisualStyleBackColor = true;
             TextBoxa.Click += TextBoxa_Click;
+
             // 
             // TextBoxb
             // 
@@ -90,6 +91,7 @@
             TextBoxb.Text = "button1";
             TextBoxb.UseVisualStyleBackColor = true;
             TextBoxb.Click += TextBoxb_Click;
+
             // 
             // TextBoxc
             // 

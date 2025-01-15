@@ -15,8 +15,8 @@ namespace MyCatQuiz
         private void btn1_Click(object sender, EventArgs e)
         {
             this.Hide();
-            Question1 form2 = new Question1();
-            form2.Show();
+            Question1 question1 = new Question1();
+            question1.Show();
         }
 
         private void btn2_Click(object sender, EventArgs e)

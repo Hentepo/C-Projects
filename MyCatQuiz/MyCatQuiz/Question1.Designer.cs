@@ -129,7 +129,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "Form2";
-            Text = "Form1";
+            Text = "Form2";
             Load += Form2_Load;
             ResumeLayout(false);
             PerformLayout();

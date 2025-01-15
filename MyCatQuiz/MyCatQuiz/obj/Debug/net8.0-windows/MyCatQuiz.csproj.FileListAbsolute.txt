@@ -4,6 +4,8 @@ C:\Users\TheHe\Documents\GitHub\C-Projects\MyCatQuiz\MyCatQuiz\bin\Debug\net8.0-
 C:\Users\TheHe\Documents\GitHub\C-Projects\MyCatQuiz\MyCatQuiz\bin\Debug\net8.0-windows\MyCatQuiz.dll
 C:\Users\TheHe\Documents\GitHub\C-Projects\MyCatQuiz\MyCatQuiz\bin\Debug\net8.0-windows\MyCatQuiz.pdb
 C:\Users\TheHe\Documents\GitHub\C-Projects\MyCatQuiz\MyCatQuiz\obj\Debug\net8.0-windows\MyCatQuiz.Form1.resources
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyCatQuiz\MyCatQuiz\obj\Debug\net8.0-windows\MyCatQuiz.Properties.Resources.resources
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyCatQuiz\MyCatQuiz\obj\Debug\net8.0-windows\MyCatQuiz.Question1.resources
 C:\Users\TheHe\Documents\GitHub\C-Projects\MyCatQuiz\MyCatQuiz\obj\Debug\net8.0-windows\MyCatQuiz.csproj.GenerateResource.cache
 C:\Users\TheHe\Documents\GitHub\C-Projects\MyCatQuiz\MyCatQuiz\obj\Debug\net8.0-windows\MyCatQuiz.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\TheHe\Documents\GitHub\C-Projects\MyCatQuiz\MyCatQuiz\obj\Debug\net8.0-windows\MyCatQuiz.AssemblyInfoInputs.cache
@@ -15,6 +17,4 @@ C:\Users\TheHe\Documents\GitHub\C-Projects\MyCatQuiz\MyCatQuiz\obj\Debug\net8.0-
 C:\Users\TheHe\Documents\GitHub\C-Projects\MyCatQuiz\MyCatQuiz\obj\Debug\net8.0-windows\MyCatQuiz.pdb
 C:\Users\TheHe\Documents\GitHub\C-Projects\MyCatQuiz\MyCatQuiz\obj\Debug\net8.0-windows\MyCatQuiz.genruntimeconfig.cache
 C:\Users\TheHe\Documents\GitHub\C-Projects\MyCatQuiz\MyCatQuiz\obj\Debug\net8.0-windows\ref\MyCatQuiz.dll
-C:\Users\TheHe\Documents\GitHub\C-Projects\MyCatQuiz\MyCatQuiz\obj\Debug\net8.0-windows\MyCatQuiz.Properties.Resources.resources
-C:\Users\TheHe\Documents\GitHub\C-Projects\MyCatQuiz\MyCatQuiz\obj\Debug\net8.0-windows\MyCatQuiz.Question1.resources
 C:\Users\TheHe\Documents\GitHub\C-Projects\MyCatQuiz\MyCatQuiz\obj\Debug\net8.0-windows\MyCatQuiz.Question2.resources
