@@ -3,60 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\mycatquiz\\mycatquiz\\question2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|solutionrelative:mycatquiz\\question2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\mycatquiz\\mycatquiz\\endscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|solutionrelative:mycatquiz\\endscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\mycatquiz\\question1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|solutionrelative:mycatquiz\\question1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\mycatquiz\\mycatquiz\\question2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|solutionrelative:mycatquiz\\question2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\mycatquiz\\mycatquiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|solutionrelative:mycatquiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\mycatquiz\\mycatquiz\\question2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|solutionrelative:mycatquiz\\question2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\mycatquiz\\mycatquiz\\question1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|solutionrelative:mycatquiz\\question1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\mycatquiz\\mycatquiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|solutionrelative:mycatquiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\mycatquiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|solutionrelative:mycatquiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\mycatquiz\\mycatquiz\\appscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|solutionrelative:mycatquiz\\appscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\mycatquiz\\mycatquiz\\question1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|solutionrelative:mycatquiz\\question1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\mycatquiz\\mycatquiz\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|solutionrelative:mycatquiz\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\mycatquiz\\mycatquiz\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|solutionrelative:mycatquiz\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\mycatquiz\\mycatquiz\\mycatquiz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|solutionrelative:mycatquiz\\mycatquiz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\mycatquiz\\mycatquiz\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|solutionrelative:mycatquiz\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\mycatquiz\\mycatquiz\\endscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|solutionrelative:mycatquiz\\endscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 387,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,181 +30,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Question2.cs",
-              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Question2.cs",
-              "RelativeDocumentMoniker": "MyCatQuiz\\Question2.cs",
-              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Question2.cs",
-              "RelativeToolTip": "MyCatQuiz\\Question2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:37:21.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Question2.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Question2.Designer.cs",
-              "RelativeDocumentMoniker": "MyCatQuiz\\Question2.Designer.cs",
-              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Question2.Designer.cs",
-              "RelativeToolTip": "MyCatQuiz\\Question2.Designer.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowDoAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:37:09.848Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Question2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Question2.cs",
-              "RelativeDocumentMoniker": "MyCatQuiz\\Question2.cs",
-              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Question2.cs [Design]",
-              "RelativeToolTip": "MyCatQuiz\\Question2.cs [Design]",
+              "Title": "EndScreen.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\EndScreen.cs",
+              "RelativeDocumentMoniker": "MyCatQuiz\\EndScreen.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\EndScreen.cs",
+              "RelativeToolTip": "MyCatQuiz\\EndScreen.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvxsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T14:37:06.459Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Program.cs",
-              "RelativeDocumentMoniker": "MyCatQuiz\\Program.cs",
-              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Program.cs",
-              "RelativeToolTip": "MyCatQuiz\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAArwB0AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:41:28.899Z",
+              "WhenOpened": "2025-01-16T11:31:33.859Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MyCatQuiz",
-              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\MyCatQuiz.csproj",
-              "RelativeDocumentMoniker": "MyCatQuiz\\MyCatQuiz.csproj",
-              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\MyCatQuiz.csproj",
-              "RelativeToolTip": "MyCatQuiz\\MyCatQuiz.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-15T13:37:25.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Database.cs",
-              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Database.cs",
-              "RelativeDocumentMoniker": "MyCatQuiz\\Database.cs",
-              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Database.cs",
-              "RelativeToolTip": "MyCatQuiz\\Database.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:37:13.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppScreen.cs",
-              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\AppScreen.cs",
-              "RelativeDocumentMoniker": "MyCatQuiz\\AppScreen.cs",
-              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\AppScreen.cs",
-              "RelativeToolTip": "MyCatQuiz\\AppScreen.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAADwv0MAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:36:59.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "MyCatQuiz\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Form1.Designer.cs",
-              "RelativeToolTip": "MyCatQuiz\\Form1.Designer.cs",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:09:11.598Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Question1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Question1.Designer.cs",
-              "RelativeDocumentMoniker": "MyCatQuiz\\Question1.Designer.cs",
-              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Question1.Designer.cs",
-              "RelativeToolTip": "MyCatQuiz\\Question1.Designer.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T12:58:26.904Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Utility.cs",
-              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Utility.cs",
-              "RelativeDocumentMoniker": "MyCatQuiz\\Utility.cs",
-              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Utility.cs",
-              "RelativeToolTip": "MyCatQuiz\\Utility.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T13:03:29.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Form1.cs",
-              "RelativeDocumentMoniker": "MyCatQuiz\\Form1.cs",
-              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Form1.cs",
-              "RelativeToolTip": "MyCatQuiz\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T12:05:55.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Question1.cs",
-              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Question1.cs",
-              "RelativeDocumentMoniker": "MyCatQuiz\\Question1.cs",
-              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Question1.cs",
-              "RelativeToolTip": "MyCatQuiz\\Question1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T12:05:24.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Form1.cs",
-              "RelativeDocumentMoniker": "MyCatQuiz\\Form1.cs",
-              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Form1.cs [Design]",
-              "RelativeToolTip": "MyCatQuiz\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T12:02:51.635Z",
-              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Question1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Question1.cs",
-              "RelativeDocumentMoniker": "MyCatQuiz\\Question1.cs",
-              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Question1.cs [Design]",
-              "RelativeToolTip": "MyCatQuiz\\Question1.cs [Design]",
+              "Title": "EndScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\EndScreen.cs",
+              "RelativeDocumentMoniker": "MyCatQuiz\\EndScreen.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\EndScreen.cs [Design]",
+              "RelativeToolTip": "MyCatQuiz\\EndScreen.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T12:02:50.099Z",
+              "WhenOpened": "2025-01-16T11:29:57.72Z",
               "EditorCaption": " [Design]"
             }
           ]
@@ -267,21 +65,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            }
-          ]
-        },
-        {
-          "DockedHeight": 72,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
             }
           ]
         }

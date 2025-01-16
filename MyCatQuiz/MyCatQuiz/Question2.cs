@@ -143,9 +143,8 @@ namespace MyCatQuiz
 
             await Task.Delay(1000);
             this.Hide();
-            Question2 question2 = new Question2();
-            question2.Show();
-
+            Question3 question3 = new Question3();
+            question3.Show();
         }
 
         private async void TextBoxb_Click(object sender, EventArgs e)
@@ -196,7 +195,10 @@ namespace MyCatQuiz
                 TextBoxb.BackColor = Color.Green;
                 Program.correctAnswerCount++;
             }
-
+            await Task.Delay(1000);
+            this.Hide();
+            Question3 question3 = new Question3();
+            question3.Show();
         }
         private async void TextBoxc_Click(object sender, EventArgs e)
         {
@@ -243,9 +245,10 @@ namespace MyCatQuiz
             {
                 TextBoxc.BackColor = Color.Red;
             }
-
-
-
+            await Task.Delay(1000);
+            this.Hide();
+            Question3 question3 = new Question3();
+            question3.Show();
         }
         private async void TextBoxd_Click(object sender, EventArgs e)
         {
@@ -290,8 +293,10 @@ namespace MyCatQuiz
             {
                 TextBoxd.BackColor = Color.Red;
             }
-
-
+            await Task.Delay(1000);
+            this.Hide();
+            Question3 question3 = new Question3();
+            question3.Show();
         }
 
     }
