@@ -141,7 +141,10 @@ namespace MyCatQuiz
                 TextBoxa.BackColor = Color.Red;
             }
 
-            Close();
+            await Task.Delay(1000);
+            this.Close();
+            EndScreen endScreen = new EndScreen();
+            endScreen.Show();
         }
 
         private async void TextBoxb_Click(object sender, EventArgs e)
@@ -192,8 +195,10 @@ namespace MyCatQuiz
                 TextBoxb.BackColor = Color.Green;
                 Program.correctAnswerCount++;
             }
-            Close();
-
+            await Task.Delay(1000);
+            this.Close();
+            EndScreen endScreen = new EndScreen();
+            endScreen.Show();
         }
         private async void TextBoxc_Click(object sender, EventArgs e)
         {
@@ -240,8 +245,10 @@ namespace MyCatQuiz
             {
                 TextBoxc.BackColor = Color.Red;
             }
-            Close();
-
+            await Task.Delay(1000);
+            this.Close();
+            EndScreen endScreen = new EndScreen();
+            endScreen.Show();
         }
         private async void TextBoxd_Click(object sender, EventArgs e)
         {
@@ -286,7 +293,10 @@ namespace MyCatQuiz
             {
                 TextBoxd.BackColor = Color.Red;
             }
-            Close();
+            await Task.Delay(1000);
+            this.Close();
+            EndScreen endScreen = new EndScreen();
+            endScreen.Show();
         }
 
     }

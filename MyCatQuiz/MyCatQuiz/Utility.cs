@@ -42,19 +42,6 @@ namespace MyCatQuiz
             Console.ForegroundColor = ConsoleColor.White;
             PressEnterToContinue();
         }
-
-        //public static int generateNumber()
-        //{
-        //    do
-        //    {
-        //        rndnum = rnd.Next(1, 11);
-        //    }
-        //    while (list.Contains(rndnum));
-
-        //    list.Add(rndnum);
-
-        //    return rndnum;
-        //}
     }
 }
 

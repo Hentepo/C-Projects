@@ -12,6 +12,9 @@ namespace MyCatQuiz
         internal static List<int> list = new List<int>();
         internal static Random rnd = new Random();
         internal static int correctAnswerCount;
+        internal static string filePath = "Data.txt";
+        internal static string? userName;
+
 
         public static int generateUniqueNumber()
         {

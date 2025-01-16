@@ -142,7 +142,7 @@ namespace MyCatQuiz
             }
 
             await Task.Delay(1000);
-            this.Hide();
+            this.Close();
             Question10 question10 = new Question10();
             question10.Show();
 
@@ -197,7 +197,7 @@ namespace MyCatQuiz
                 Program.correctAnswerCount++;
             }
             await Task.Delay(1000);
-            this.Hide();
+            this.Close();
             Question10 question10 = new Question10();
             question10.Show();
         }
@@ -247,7 +247,7 @@ namespace MyCatQuiz
                 TextBoxc.BackColor = Color.Red;
             }
             await Task.Delay(1000);
-            this.Hide();
+            this.Close();
             Question10 question10 = new Question10();
             question10.Show();
         }
@@ -295,7 +295,7 @@ namespace MyCatQuiz
                 TextBoxd.BackColor = Color.Red;
             }
             await Task.Delay(1000);
-            this.Hide();
+            this.Close();
             Question10 question10 = new Question10();
             question10.Show();
         }

@@ -9,6 +9,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\mycatquiz\\mycatquiz\\endscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|solutionrelative:mycatquiz\\endscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\mycatquiz\\mycatquiz\\startscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|solutionrelative:mycatquiz\\startscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\mycatquiz\\mycatquiz\\startscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|solutionrelative:mycatquiz\\startscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\mycatquiz\\mycatquiz\\startscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|solutionrelative:mycatquiz\\startscreen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\mycatquiz\\mycatquiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|solutionrelative:mycatquiz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,9 +52,9 @@
               "RelativeDocumentMoniker": "MyCatQuiz\\EndScreen.cs",
               "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\EndScreen.cs",
               "RelativeToolTip": "MyCatQuiz\\EndScreen.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAADwvx4AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T11:31:33.859Z",
+              "WhenOpened": "2025-01-16T12:41:20.178Z",
               "EditorCaption": ""
             },
             {
@@ -50,7 +66,58 @@
               "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\EndScreen.cs [Design]",
               "RelativeToolTip": "MyCatQuiz\\EndScreen.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T11:29:57.72Z",
+              "WhenOpened": "2025-01-16T12:41:14.627Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StartScreen.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\StartScreen.Designer.cs",
+              "RelativeDocumentMoniker": "MyCatQuiz\\StartScreen.Designer.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\StartScreen.Designer.cs",
+              "RelativeToolTip": "MyCatQuiz\\StartScreen.Designer.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAADgv1IAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:35:08.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Program.cs",
+              "RelativeDocumentMoniker": "MyCatQuiz\\Program.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Program.cs",
+              "RelativeToolTip": "MyCatQuiz\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:33:55.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StartScreen.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\StartScreen.cs",
+              "RelativeDocumentMoniker": "MyCatQuiz\\StartScreen.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\StartScreen.cs",
+              "RelativeToolTip": "MyCatQuiz\\StartScreen.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:33:25.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartScreen.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\StartScreen.cs",
+              "RelativeDocumentMoniker": "MyCatQuiz\\StartScreen.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\StartScreen.cs [Design]",
+              "RelativeToolTip": "MyCatQuiz\\StartScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T12:28:41.822Z",
               "EditorCaption": " [Design]"
             }
           ]
