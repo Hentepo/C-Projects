@@ -9,6 +9,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Update="ScoreBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="StartScreen.cs">
       <SubType>Form</SubType>
     </Compile>

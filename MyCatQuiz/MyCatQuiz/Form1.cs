@@ -21,6 +21,9 @@ namespace MyCatQuiz
 
         private void btn2_Click(object sender, EventArgs e)
         {
+            this.Hide();
+            ScoreBoard scoreboard = new ScoreBoard();
+            scoreboard.Show();
         }
 
         private void btn3_Click(object sender, EventArgs e)
