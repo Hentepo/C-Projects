@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyCatQuiz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69338e5bd3db8b8d2e6121170e12cdbc1f352408")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da97289c8aa906296dd11c04c25bffe4e6c5e3c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyCatQuiz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyCatQuiz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

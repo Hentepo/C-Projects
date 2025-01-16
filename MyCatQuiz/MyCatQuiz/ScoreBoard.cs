@@ -15,6 +15,46 @@ namespace MyCatQuiz
 
             foreach (var line in lines)
             {
+                if (line.EndsWith("10 points"))
+                {
+                    ScoreLabel.Text += line + Environment.NewLine;
+                }
+            }
+
+            foreach (var line in lines)
+            {
+                if (line.EndsWith("9 points"))
+                {
+                    ScoreLabel.Text += line + Environment.NewLine;
+                }
+            }
+
+            foreach (var line in lines)
+            {
+                if (line.EndsWith("8 points"))
+                {
+                    ScoreLabel.Text += line + Environment.NewLine;
+                }
+            }
+
+            foreach (var line in lines)
+            {
+                if (line.EndsWith("7 points"))
+                {
+                    ScoreLabel.Text += line + Environment.NewLine;
+                }
+            }
+
+            foreach (var line in lines)
+            {
+                if (line.EndsWith("6 points"))
+                {
+                    ScoreLabel.Text += line + Environment.NewLine;
+                }
+            }
+
+            foreach (var line in lines)
+            {
                 if (line.EndsWith("5 points"))
                 {
                     ScoreLabel.Text += line + Environment.NewLine;

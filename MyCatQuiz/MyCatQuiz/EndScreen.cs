@@ -21,6 +21,7 @@ namespace MyCatQuiz
 
         private void TextBoxEnd_Click(object sender, EventArgs e)
         {
+            Program.correctAnswerCount = 0;
             Program.list.Clear();
             this.Close();
             Form1 form1 = new Form1();

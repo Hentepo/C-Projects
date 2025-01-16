@@ -87,6 +87,7 @@
             UserInputBox.Name = "UserInputBox";
             UserInputBox.Size = new Size(374, 95);
             UserInputBox.TabIndex = 5;
+            UserInputBox.KeyDown += UserInputBox_KeyDown;
             // 
             // StartScreen
             // 

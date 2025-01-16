@@ -31,5 +31,16 @@ namespace MyCatQuiz
         {
 
         }
+
+        private void UserInputBox_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyValue == (char)Keys.Enter)
+            {
+                Program.userName = UserInputBox.Text;
+                this.Close();
+                Question1 question1 = new Question1();
+                question1.Show();
+            }
+        }
     }
 }
