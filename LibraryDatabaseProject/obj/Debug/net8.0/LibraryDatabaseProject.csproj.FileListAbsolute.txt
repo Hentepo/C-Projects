@@ -1,0 +1,15 @@
+C:\Users\TheHe\Documents\GitHub\C-Projects\LibraryDatabaseProject\obj\Debug\net8.0\LibraryDatabaseProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TheHe\Documents\GitHub\C-Projects\LibraryDatabaseProject\obj\Debug\net8.0\LibraryDatabaseProject.AssemblyInfoInputs.cache
+C:\Users\TheHe\Documents\GitHub\C-Projects\LibraryDatabaseProject\obj\Debug\net8.0\LibraryDatabaseProject.AssemblyInfo.cs
+C:\Users\TheHe\Documents\GitHub\C-Projects\LibraryDatabaseProject\obj\Debug\net8.0\LibraryDatabaseProject.csproj.CoreCompileInputs.cache
+C:\Users\TheHe\Documents\GitHub\C-Projects\LibraryDatabaseProject\obj\Debug\net8.0\LibraryDatabaseProject.sourcelink.json
+C:\Users\TheHe\Documents\GitHub\C-Projects\LibraryDatabaseProject\bin\Debug\net8.0\LibraryDatabaseProject.exe
+C:\Users\TheHe\Documents\GitHub\C-Projects\LibraryDatabaseProject\bin\Debug\net8.0\LibraryDatabaseProject.deps.json
+C:\Users\TheHe\Documents\GitHub\C-Projects\LibraryDatabaseProject\bin\Debug\net8.0\LibraryDatabaseProject.runtimeconfig.json
+C:\Users\TheHe\Documents\GitHub\C-Projects\LibraryDatabaseProject\bin\Debug\net8.0\LibraryDatabaseProject.dll
+C:\Users\TheHe\Documents\GitHub\C-Projects\LibraryDatabaseProject\bin\Debug\net8.0\LibraryDatabaseProject.pdb
+C:\Users\TheHe\Documents\GitHub\C-Projects\LibraryDatabaseProject\obj\Debug\net8.0\LibraryDatabaseProject.dll
+C:\Users\TheHe\Documents\GitHub\C-Projects\LibraryDatabaseProject\obj\Debug\net8.0\refint\LibraryDatabaseProject.dll
+C:\Users\TheHe\Documents\GitHub\C-Projects\LibraryDatabaseProject\obj\Debug\net8.0\LibraryDatabaseProject.pdb
+C:\Users\TheHe\Documents\GitHub\C-Projects\LibraryDatabaseProject\obj\Debug\net8.0\LibraryDatabaseProject.genruntimeconfig.cache
+C:\Users\TheHe\Documents\GitHub\C-Projects\LibraryDatabaseProject\obj\Debug\net8.0\ref\LibraryDatabaseProject.dll
