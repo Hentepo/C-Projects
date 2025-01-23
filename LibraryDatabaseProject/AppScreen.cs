@@ -71,7 +71,7 @@ namespace LibraryDatabaseProject
 
                     if (option == 1)
                     {
-                        PrintBooks();
+                        Database.ConnectToDatabase();
                     }
                     else if (option == 2)
                     {

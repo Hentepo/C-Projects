@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\LibraryDatabaseProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E05DEB20-A7DF-43BD-A114-BBFDEE63371D}|LibraryDatabaseProject.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\librarydatabaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E05DEB20-A7DF-43BD-A114-BBFDEE63371D}|LibraryDatabaseProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E05DEB20-A7DF-43BD-A114-BBFDEE63371D}|LibraryDatabaseProject.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\librarydatabaseproject\\appscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E05DEB20-A7DF-43BD-A114-BBFDEE63371D}|LibraryDatabaseProject.csproj|solutionrelative:appscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05DEB20-A7DF-43BD-A114-BBFDEE63371D}|LibraryDatabaseProject.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\librarydatabaseproject\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05DEB20-A7DF-43BD-A114-BBFDEE63371D}|LibraryDatabaseProject.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05DEB20-A7DF-43BD-A114-BBFDEE63371D}|LibraryDatabaseProject.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\librarydatabaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05DEB20-A7DF-43BD-A114-BBFDEE63371D}|LibraryDatabaseProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E05DEB20-A7DF-43BD-A114-BBFDEE63371D}|LibraryDatabaseProject.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\librarydatabaseproject\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 387,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -47,19 +51,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\LibraryDatabaseProject\\Database.cs",
+              "RelativeDocumentMoniker": "Database.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\LibraryDatabaseProject\\Database.cs",
+              "RelativeToolTip": "Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:47:07.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "AppScreen.cs",
               "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\LibraryDatabaseProject\\AppScreen.cs",
               "RelativeDocumentMoniker": "AppScreen.cs",
               "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\LibraryDatabaseProject\\AppScreen.cs",
               "RelativeToolTip": "AppScreen.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAgwFMAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-23T11:12:03.67Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Utilities.cs",
               "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\LibraryDatabaseProject\\Utilities.cs",
               "RelativeDocumentMoniker": "Utilities.cs",
@@ -72,7 +89,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LibraryDatabaseProject.csproj",
               "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\LibraryDatabaseProject\\LibraryDatabaseProject.csproj",
               "RelativeDocumentMoniker": "LibraryDatabaseProject.csproj",
@@ -80,11 +97,12 @@
               "RelativeToolTip": "LibraryDatabaseProject.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-23T11:11:02.908Z"
+              "WhenOpened": "2025-01-23T11:11:02.908Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\LibraryDatabaseProject\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
