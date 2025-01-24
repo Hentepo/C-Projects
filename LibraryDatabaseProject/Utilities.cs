@@ -10,8 +10,37 @@ namespace LibraryDatabaseProject
     {
         public static string GetUserInput(string prompt)
         {
-            Console.WriteLine($"Enter {prompt}");
+            Console.WriteLine(prompt);
             return Console.ReadLine();
+        }
+
+        public static int GetNumericInput(string prompt)
+        {
+            while (true)
+            {
+                Console.WriteLine(prompt);
+                if (int.TryParse(Console.ReadLine(), out int result))
+                {
+                    return result;
+                }
+                Console.WriteLine("Invalid input. Please enter a numeric value.");
+            }
+        }
+
+        public static int ChooseOptionInput()
+        {
+            while (true)
+            {
+                Console.WriteLine();
+
+                AppScreen.Menu();
+
+                if (int.TryParse(Console.ReadLine(), out int result))
+                {
+                    return result;
+                }
+                Console.WriteLine("Invalid input. Please enter a numeric value.");
+            }
         }
 
         public static void PressEnterToContinue()

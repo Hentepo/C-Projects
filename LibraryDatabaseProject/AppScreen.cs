@@ -69,43 +69,67 @@ namespace LibraryDatabaseProject
             while (true)
             {
 
-                Menu();
+                int option = Utilities.ChooseOptionInput();
 
-                try
+                if (option == 1)
                 {
-                    int option = Convert.ToInt16(Console.ReadLine());
-
-                    if (option == 1)
-                    {
-                        Database.ReadFromDatabase();
-                    }
-                    else if (option == 2)
-                    {
-                        Database.WriteToDatabase();
-                    }
-                    else if (option == 3)
-                    {
-                        DeleteBook();
-                    }
-                    else if (option == 4)
-                    {
-                        break;
-                    }
-                    else
-                    {
-                        Console.WriteLine();
-                        Console.WriteLine("Please, choose option 1, 2, 3 or 4");
-                        Utilities.PressEnterToContinue();
-                    }
+                    Database.ReadFromDatabase();
                 }
-                catch (Exception)
+                else if (option == 2)
                 {
-                    Console.WriteLine();
-                    Console.WriteLine("Please, choose option 1, 2, 3 or 4");
-                    Utilities.PressEnterToContinue();
+                    Database.WriteToDatabase();
+                }
+                else if (option == 3)
+                {
+                    DeleteBook();
+                }
+                else if (option == 4)
+                {
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Invalid input. Please choose 1,2,3 or 4.");
                     continue;
                 }
             }
+
         }
     }
 }
+
+
+//try
+//{
+//    int option = Convert.ToInt16(Console.ReadLine());
+
+//    if (option == 1)
+//    {
+//        Database.ReadFromDatabase();
+//    }
+//    else if (option == 2)
+//    {
+//        Database.WriteToDatabase();
+//    }
+//    else if (option == 3)
+//    {
+//        DeleteBook();
+//    }
+//    else if (option == 4)
+//    {
+//        break;
+//    }
+//    else
+//    {
+//        Console.WriteLine();
+//        Console.WriteLine("Please, choose option 1, 2, 3 or 4");
+//        Utilities.PressEnterToContinue();
+//    }
+//}
+//catch (Exception)
+//{
+//    Console.WriteLine();
+//    Console.WriteLine("Please, choose option 1, 2, 3 or 4");
+//    Utilities.PressEnterToContinue();
+//    continue;
+//}
