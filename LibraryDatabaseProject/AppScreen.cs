@@ -59,10 +59,16 @@ namespace LibraryDatabaseProject
 
 
 
-        static public void Options()
+        static public void Library()
         {
+
+            AppScreen.Welcome();
+
+            Utilities.PressEnterToContinue();
+
             while (true)
             {
+
                 Menu();
 
                 try
@@ -71,11 +77,11 @@ namespace LibraryDatabaseProject
 
                     if (option == 1)
                     {
-                        Database.ConnectToDatabase();
+                        Database.ReadFromDatabase();
                     }
                     else if (option == 2)
                     {
-                        AddBook();
+                        Database.WriteToDatabase();
                     }
                     else if (option == 3)
                     {

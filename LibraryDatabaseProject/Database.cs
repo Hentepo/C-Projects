@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,7 +10,7 @@ namespace LibraryDatabaseProject
 {
     public class Database
     {
-        public static void ConnectToDatabase()
+        public static void ReadFromDatabase()
         {
             string connstring = "Data Source=DESKTOP-G83IEC9;Initial Catalog=LibraryDatabase;Integrated Security=true;Encrypt=False";
             SqlConnection con = new SqlConnection(connstring);
@@ -30,6 +31,21 @@ namespace LibraryDatabaseProject
             }
         }
 
-                    
+        public static void WriteToDatabase()
+        {
+
+            string connstring = "Data Source=DESKTOP-G83IEC9;Initial Catalog=LibraryDatabase;Integrated Security=true;Encrypt=False";
+            SqlConnection con = new SqlConnection(connstring);
+            con.Open();
+            string query = "INSERT INTO Books(Book,Author,Year) VALUES(@param1,@param2,@param3)";
+            using (SqlCommand cmd = new SqlCommand(query, con))
+            {
+                cmd.Parameters.Add("@param1", SqlDbType.VarChar, 50).Value = "Pekka ja patka";
+                cmd.Parameters.Add("@param2", SqlDbType.VarChar, 50).Value = "No Pekka ite";
+                cmd.Parameters.Add("@param3", SqlDbType.Int).Value = 2000;
+                cmd.CommandType = CommandType.Text;
+                cmd.ExecuteNonQuery();
+            }
+        }
     }
 }
