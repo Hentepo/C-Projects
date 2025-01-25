@@ -81,7 +81,9 @@ namespace LibraryDatabaseProject
                 }
                 else if (option == 3)
                 {
-                    DeleteBook();
+                    Database.ReadFromDatabase();
+                    Console.WriteLine();
+                    Database.DeleteFromDatabase();
                 }
                 else if (option == 4)
                 {

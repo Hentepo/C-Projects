@@ -76,5 +76,47 @@ namespace LibraryDatabaseProject
                 Console.WriteLine($"An unexpected error occurred: {ex.Message}");
             }
         }
+        public static void DeleteFromDatabase()
+        {
+            string connectionString = "Data Source=DESKTOP-G83IEC9;Initial Catalog=LibraryDatabase;Integrated Security=true;Encrypt=False";
+
+            try
+            {
+                using (SqlConnection connection = new SqlConnection(connectionString))
+                {
+                    connection.Open();
+                    string query = "DELETE FROM Books WHERE Book = @Book AND Author = @Author AND Year = @Year";
+
+                    using (SqlCommand command = new SqlCommand(query, connection))
+                    {
+                        // Collect user inputs
+                        string bookName = Utilities.GetUserInput("Enter book name to delete: ");
+                        string authorName = Utilities.GetUserInput("Enter author name to delete: ");
+                        int year = Utilities.GetNumericInput("Enter the year to delete: ");
+
+                        // Add parameters to the query
+                        command.Parameters.AddWithValue("@Book", bookName);
+                        command.Parameters.AddWithValue("@Author", authorName);
+                        command.Parameters.AddWithValue("@Year", year);
+
+                        // Execute the query
+                        int rowsAffected = command.ExecuteNonQuery();
+                        Console.WriteLine($"{rowsAffected} row(s) deleted successfully.");
+                    }
+                }
+            }
+            catch (SqlException ex)
+            {
+                Console.WriteLine($"Database error: {ex.Message}");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"An unexpected error occurred: {ex.Message}");
+            }
+        }
+
+
+
+
     }
 }
