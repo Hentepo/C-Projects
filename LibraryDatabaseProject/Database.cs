@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.Design;
 using System.Data;
 using System.Linq;
 using System.Text;
@@ -63,7 +64,7 @@ namespace LibraryDatabaseProject
 
                         // Execute the query
                         int rowsAffected = command.ExecuteNonQuery();
-                        Console.WriteLine($"{rowsAffected} row(s) inserted successfully.");
+                        Console.WriteLine($"{rowsAffected} Book added successfully.");
                     }
                 }
             }
@@ -101,7 +102,14 @@ namespace LibraryDatabaseProject
 
                         // Execute the query
                         int rowsAffected = command.ExecuteNonQuery();
-                        Console.WriteLine($"{rowsAffected} row(s) deleted successfully.");
+                        if (rowsAffected > 0)
+                        {
+                            Console.WriteLine("Book deleted successfully");
+                        }
+                        else
+                        {
+                            Console.WriteLine("Invalid input, book not found!");
+                        }
                     }
                 }
             }
