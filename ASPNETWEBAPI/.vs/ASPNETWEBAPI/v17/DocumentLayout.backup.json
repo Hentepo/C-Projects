@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\ASPNETWEBAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F5BED3-FB0C-46DE-A70C-9C62812C3853}|MVC\\MVC.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\aspnetwebapi\\mvc\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2F5BED3-FB0C-46DE-A70C-9C62812C3853}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F5BED3-FB0C-46DE-A70C-9C62812C3853}|MVC\\MVC.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\aspnetwebapi\\mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F5BED3-FB0C-46DE-A70C-9C62812C3853}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F5BED3-FB0C-46DE-A70C-9C62812C3853}|MVC\\MVC.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\aspnetwebapi\\mvc\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2F5BED3-FB0C-46DE-A70C-9C62812C3853}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F5BED3-FB0C-46DE-A70C-9C62812C3853}|MVC\\MVC.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\aspnetwebapi\\mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2F5BED3-FB0C-46DE-A70C-9C62812C3853}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F5BED3-FB0C-46DE-A70C-9C62812C3853}|MVC\\MVC.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\aspnetwebapi\\mvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F5BED3-FB0C-46DE-A70C-9C62812C3853}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F5BED3-FB0C-46DE-A70C-9C62812C3853}|MVC\\MVC.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\aspnetwebapi\\mvc\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2F5BED3-FB0C-46DE-A70C-9C62812C3853}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F5BED3-FB0C-46DE-A70C-9C62812C3853}|MVC\\MVC.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\aspnetwebapi\\mvc\\mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B2F5BED3-FB0C-46DE-A70C-9C62812C3853}|MVC\\MVC.csproj|solutionrelative:mvc\\mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F5BED3-FB0C-46DE-A70C-9C62812C3853}|MVC\\MVC.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\aspnetwebapi\\mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F5BED3-FB0C-46DE-A70C-9C62812C3853}|MVC\\MVC.csproj|solutionrelative:mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F5BED3-FB0C-46DE-A70C-9C62812C3853}|MVC\\MVC.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\aspnetwebapi\\mvc\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B2F5BED3-FB0C-46DE-A70C-9C62812C3853}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F5BED3-FB0C-46DE-A70C-9C62812C3853}|MVC\\MVC.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\aspnetwebapi\\mvc\\globalvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F5BED3-FB0C-46DE-A70C-9C62812C3853}|MVC\\MVC.csproj|solutionrelative:mvc\\globalvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F96950B4-D9E1-4C4B-869A-978CD0404C5F}|WebApi\\WebApi.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\aspnetwebapi\\webapi\\webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F96950B4-D9E1-4C4B-869A-978CD0404C5F}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 387,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\ASPNETWEBAPI\\MVC\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\ASPNETWEBAPI\\MVC\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T11:46:32.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\ASPNETWEBAPI\\MVC\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\ASPNETWEBAPI\\MVC\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T11:35:29.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\ASPNETWEBAPI\\MVC\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\ASPNETWEBAPI\\MVC\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T11:06:55.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MVC",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\ASPNETWEBAPI\\MVC\\MVC.csproj",
+              "RelativeDocumentMoniker": "MVC\\MVC.csproj",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\ASPNETWEBAPI\\MVC\\MVC.csproj",
+              "RelativeToolTip": "MVC\\MVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-24T11:00:48.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\ASPNETWEBAPI\\MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\ASPNETWEBAPI\\MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "MVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:59:45.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\ASPNETWEBAPI\\MVC\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\ASPNETWEBAPI\\MVC\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T10:58:55.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\ASPNETWEBAPI\\MVC\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\ASPNETWEBAPI\\MVC\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T10:49:25.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\ASPNETWEBAPI\\MVC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\ASPNETWEBAPI\\MVC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAswKkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:38:13.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WebApi",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\ASPNETWEBAPI\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\ASPNETWEBAPI\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "WebApi\\WebApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-24T10:37:27.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GlobalVariables.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\ASPNETWEBAPI\\MVC\\GlobalVariables.cs",
+              "RelativeDocumentMoniker": "MVC\\GlobalVariables.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\ASPNETWEBAPI\\MVC\\GlobalVariables.cs",
+              "RelativeToolTip": "MVC\\GlobalVariables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:36:06.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\ASPNETWEBAPI\\MVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MVC\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\ASPNETWEBAPI\\MVC\\Models\\Product.cs",
+              "RelativeToolTip": "MVC\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T09:08:18.227Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 170,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreWebApiProject", "AspNetCoreWebApiProject\AspNetCoreWebApiProject.csproj", "{CEB06CCF-1267-419D-9647-88848AF43265}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreWebApiClientProject", "WebApplication1\AspNetCoreWebApiClientProject.csproj", "{5EA17EEB-3877-4D9F-8229-C9E3158025FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEB06CCF-1267-419D-9647-88848AF43265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB06CCF-1267-419D-9647-88848AF43265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB06CCF-1267-419D-9647-88848AF43265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB06CCF-1267-419D-9647-88848AF43265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EA17EEB-3877-4D9F-8229-C9E3158025FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA17EEB-3877-4D9F-8229-C9E3158025FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA17EEB-3877-4D9F-8229-C9E3158025FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA17EEB-3877-4D9F-8229-C9E3158025FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

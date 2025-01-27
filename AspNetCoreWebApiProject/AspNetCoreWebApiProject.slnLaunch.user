@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "AspNetCoreWebApiProject\\AspNetCoreWebApiProject.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "WebApplication1\\AspNetCoreWebApiClientProject.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

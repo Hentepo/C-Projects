@@ -124,6 +124,7 @@ namespace LibraryDatabaseProject
                             else
                             {
                                 Console.WriteLine("Invalid input. Book not found!");
+                                Console.WriteLine("Try again!");
                             }
                         }
                     }

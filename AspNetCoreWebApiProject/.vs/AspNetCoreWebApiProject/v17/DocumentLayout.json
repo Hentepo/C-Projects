@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA17EEB-3877-4D9F-8229-C9E3158025FF}|WebApplication1\\AspNetCoreWebApiClientProject.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\aspnetcorewebapiproject\\webapplication1\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5EA17EEB-3877-4D9F-8229-C9E3158025FF}|WebApplication1\\AspNetCoreWebApiClientProject.csproj|solutionrelative:webapplication1\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA17EEB-3877-4D9F-8229-C9E3158025FF}|WebApplication1\\AspNetCoreWebApiClientProject.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\aspnetcorewebapiproject\\webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EA17EEB-3877-4D9F-8229-C9E3158025FF}|WebApplication1\\AspNetCoreWebApiClientProject.csproj|solutionrelative:webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB06CCF-1267-419D-9647-88848AF43265}|AspNetCoreWebApiProject\\AspNetCoreWebApiProject.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\aspnetcorewebapiproject\\aspnetcorewebapiproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB06CCF-1267-419D-9647-88848AF43265}|AspNetCoreWebApiProject\\AspNetCoreWebApiProject.csproj|solutionrelative:aspnetcorewebapiproject\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB06CCF-1267-419D-9647-88848AF43265}|AspNetCoreWebApiProject\\AspNetCoreWebApiProject.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\aspnetcorewebapiproject\\aspnetcorewebapiproject\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB06CCF-1267-419D-9647-88848AF43265}|AspNetCoreWebApiProject\\AspNetCoreWebApiProject.csproj|solutionrelative:aspnetcorewebapiproject\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB06CCF-1267-419D-9647-88848AF43265}|AspNetCoreWebApiProject\\AspNetCoreWebApiProject.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\aspnetcorewebapiproject\\aspnetcorewebapiproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB06CCF-1267-419D-9647-88848AF43265}|AspNetCoreWebApiProject\\AspNetCoreWebApiProject.csproj|solutionrelative:aspnetcorewebapiproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB06CCF-1267-419D-9647-88848AF43265}|AspNetCoreWebApiProject\\AspNetCoreWebApiProject.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\aspnetcorewebapiproject\\aspnetcorewebapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEB06CCF-1267-419D-9647-88848AF43265}|AspNetCoreWebApiProject\\AspNetCoreWebApiProject.csproj|solutionrelative:aspnetcorewebapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB06CCF-1267-419D-9647-88848AF43265}|AspNetCoreWebApiProject\\AspNetCoreWebApiProject.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\aspnetcorewebapiproject\\aspnetcorewebapiproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB06CCF-1267-419D-9647-88848AF43265}|AspNetCoreWebApiProject\\AspNetCoreWebApiProject.csproj|solutionrelative:aspnetcorewebapiproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB06CCF-1267-419D-9647-88848AF43265}|AspNetCoreWebApiProject\\AspNetCoreWebApiProject.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\aspnetcorewebapiproject\\aspnetcorewebapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB06CCF-1267-419D-9647-88848AF43265}|AspNetCoreWebApiProject\\AspNetCoreWebApiProject.csproj|solutionrelative:aspnetcorewebapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB06CCF-1267-419D-9647-88848AF43265}|AspNetCoreWebApiProject\\AspNetCoreWebApiProject.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\aspnetcorewebapiproject\\aspnetcorewebapiproject\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB06CCF-1267-419D-9647-88848AF43265}|AspNetCoreWebApiProject\\AspNetCoreWebApiProject.csproj|solutionrelative:aspnetcorewebapiproject\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB06CCF-1267-419D-9647-88848AF43265}|AspNetCoreWebApiProject\\AspNetCoreWebApiProject.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\aspnetcorewebapiproject\\aspnetcorewebapiproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CEB06CCF-1267-419D-9647-88848AF43265}|AspNetCoreWebApiProject\\AspNetCoreWebApiProject.csproj|solutionrelative:aspnetcorewebapiproject\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EA17EEB-3877-4D9F-8229-C9E3158025FF}|WebApplication1\\AspNetCoreWebApiClientProject.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\aspnetcorewebapiproject\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EA17EEB-3877-4D9F-8229-C9E3158025FF}|WebApplication1\\AspNetCoreWebApiClientProject.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB06CCF-1267-419D-9647-88848AF43265}|AspNetCoreWebApiProject\\AspNetCoreWebApiProject.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\aspnetcorewebapiproject\\aspnetcorewebapiproject\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB06CCF-1267-419D-9647-88848AF43265}|AspNetCoreWebApiProject\\AspNetCoreWebApiProject.csproj|solutionrelative:aspnetcorewebapiproject\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 387,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\WebApplication1\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\WebApplication1\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-24T09:20:42.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\AspNetCoreWebApiProject\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreWebApiProject\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\AspNetCoreWebApiProject\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "AspNetCoreWebApiProject\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T08:48:22.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\AspNetCoreWebApiProject\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AspNetCoreWebApiProject\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\AspNetCoreWebApiProject\\appsettings.Development.json",
+              "RelativeToolTip": "AspNetCoreWebApiProject\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T08:35:24.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\AspNetCoreWebApiProject\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "AspNetCoreWebApiProject\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\AspNetCoreWebApiProject\\Models\\Product.cs",
+              "RelativeToolTip": "AspNetCoreWebApiProject\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T08:17:31.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-24T08:15:17.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\AspNetCoreWebApiProject\\Program.cs",
+              "RelativeDocumentMoniker": "AspNetCoreWebApiProject\\Program.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\AspNetCoreWebApiProject\\Program.cs",
+              "RelativeToolTip": "AspNetCoreWebApiProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T07:05:50.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\AspNetCoreWebApiProject\\appsettings.json",
+              "RelativeDocumentMoniker": "AspNetCoreWebApiProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\AspNetCoreWebApiProject\\appsettings.json",
+              "RelativeToolTip": "AspNetCoreWebApiProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-23T14:41:49.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\AspNetCoreWebApiProject\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AspNetCoreWebApiProject\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\AspNetCoreWebApiProject\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AspNetCoreWebApiProject\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T14:41:42.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\AspNetCoreWebApiProject\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreWebApiProject\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\AspNetCoreWebApiProject\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "AspNetCoreWebApiProject\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:07:01.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\AspNetCoreWebApiProject\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreWebApiProject\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\AspNetCoreWebApiProject\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "AspNetCoreWebApiProject\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:07:00.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\AspNetCoreWebApiProject\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "AspNetCoreWebApiProject\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\AspNetCoreWebApiProject\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "AspNetCoreWebApiProject\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T11:07:00.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T14:48:38.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 170,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

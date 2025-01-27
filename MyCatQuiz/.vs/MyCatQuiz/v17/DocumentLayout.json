@@ -23,7 +23,7 @@
       "RelativeMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|solutionrelative:mycatquiz\\startscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\mycatquiz\\mycatquiz\\startscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\mycatquiz\\startscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9749D723-E4D8-40D1-905C-1C9778E5EFD6}|MyCatQuiz\\MyCatQuiz.csproj|solutionrelative:mycatquiz\\startscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 387,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,6 +55,14 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
@@ -78,8 +86,7 @@
               "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\StartScreen.cs [Design]",
               "RelativeToolTip": "MyCatQuiz\\StartScreen.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T13:35:08.609Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-16T13:35:08.609Z"
             },
             {
               "$type": "Document",
@@ -103,8 +110,7 @@
               "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\EndScreen.cs [Design]",
               "RelativeToolTip": "MyCatQuiz\\EndScreen.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T13:16:32.063Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-16T13:16:32.063Z"
             },
             {
               "$type": "Document",
@@ -128,8 +134,7 @@
               "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\Form1.cs [Design]",
               "RelativeToolTip": "MyCatQuiz\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T12:56:20.775Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-16T12:56:20.775Z"
             },
             {
               "$type": "Document",
@@ -141,8 +146,7 @@
               "RelativeToolTip": "MyCatQuiz\\ScoreBoard.Designer.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAADgv1gAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T12:52:46.71Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-16T12:52:46.71Z"
             },
             {
               "$type": "Document",
@@ -152,7 +156,7 @@
               "RelativeDocumentMoniker": "MyCatQuiz\\ScoreBoard.cs",
               "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\ScoreBoard.cs",
               "RelativeToolTip": "MyCatQuiz\\ScoreBoard.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T12:52:20.592Z",
               "EditorCaption": ""
@@ -166,22 +170,7 @@
               "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\MyCatQuiz\\MyCatQuiz\\ScoreBoard.cs [Design]",
               "RelativeToolTip": "MyCatQuiz\\ScoreBoard.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-16T12:50:53.151Z",
-              "EditorCaption": " [Design]"
-            }
-          ]
-        },
-        {
-          "DockedHeight": 170,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "WhenOpened": "2025-01-16T12:50:53.151Z"
             }
           ]
         }

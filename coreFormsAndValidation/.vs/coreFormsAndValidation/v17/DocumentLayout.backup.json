@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\coreFormsAndValidation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A898A5C-8103-4471-BB4B-F914E5727D1C}|..\\AspNetCoreWebApiProject\\AspNetCoreWebApiProject\\AspNetCoreWebApiProject.csproj|c:\\users\\thehe\\documents\\github\\c-projects\\aspnetcorewebapiproject\\aspnetcorewebapiproject\\migrations\\20250120111730_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 387,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250120111730_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\AspNetCoreWebApiProject\\Migrations\\20250120111730_InitialCreate.cs",
+              "RelativeDocumentMoniker": "..\\AspNetCoreWebApiProject\\AspNetCoreWebApiProject\\Migrations\\20250120111730_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\AspNetCoreWebApiProject\\AspNetCoreWebApiProject\\Migrations\\20250120111730_InitialCreate.cs",
+              "RelativeToolTip": "..\\AspNetCoreWebApiProject\\AspNetCoreWebApiProject\\Migrations\\20250120111730_InitialCreate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T11:22:21.282Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 170,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 72,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
