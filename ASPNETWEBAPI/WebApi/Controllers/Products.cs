@@ -20,7 +20,7 @@ namespace AspNetCoreWebApiProject.Controllers
             return _context.Products.ToList();
         }
         [HttpPost]
-        public IActionResult ActionResult(Product product)
+        public IActionResult AddProduct(Product product)
         {
             try
             {
@@ -46,6 +46,22 @@ namespace AspNetCoreWebApiProject.Controllers
                 if (id != product.ProductId)
                     return StatusCode(StatusCodes.Status400BadRequest);
                 _context.Products.Update(product);
+                _context.SaveChanges(true);
+                return StatusCode(StatusCodes.Status200OK);
+            }
+            catch (Exception)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError);
+            }
+        }
+        [HttpDelete("{id}")]
+        public IActionResult DeleteProduct(int id, Product product)
+        {
+            try
+            {
+                if (id != product.ProductId)
+                    return StatusCode(StatusCodes.Status400BadRequest);
+                _context.Products.Remove(product);
                 _context.SaveChanges(true);
                 return StatusCode(StatusCodes.Status200OK);
             }
