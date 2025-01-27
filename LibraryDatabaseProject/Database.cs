@@ -116,7 +116,7 @@ namespace LibraryDatabaseProject
                             deleteCommand.Parameters.AddWithValue("@Year", yearTemp);
 
                             // execute the query
-                            int rowsaffected = command.ExecuteNonQuery();
+                            int rowsaffected = deleteCommand.ExecuteNonQuery();
                             if (rowsaffected > 0)
                             {
                                 Console.WriteLine("Book deleted successfully.");
