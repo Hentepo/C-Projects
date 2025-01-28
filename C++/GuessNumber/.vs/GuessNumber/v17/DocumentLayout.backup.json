@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TheHe\\Documents\\GitHub\\C\u002B\u002B\\GuessNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50F785E5-84D3-4CF4-87FD-1B2577F4730F}|GuessNumber\\GuessNumber.vcxproj|C:\\Users\\TheHe\\Documents\\GitHub\\C\u002B\u002B\\GuessNumber\\GuessNumber\\GuessNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50F785E5-84D3-4CF4-87FD-1B2577F4730F}|GuessNumber\\GuessNumber.vcxproj|solutionrelative:GuessNumber\\GuessNumber.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 387,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GuessNumber.cpp",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C\u002B\u002B\\GuessNumber\\GuessNumber\\GuessNumber.cpp",
+              "RelativeDocumentMoniker": "GuessNumber\\GuessNumber.cpp",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C\u002B\u002B\\GuessNumber\\GuessNumber\\GuessNumber.cpp",
+              "RelativeToolTip": "GuessNumber\\GuessNumber.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-28T11:12:15.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 170,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
