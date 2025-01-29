@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\C\u002B\u002B\\MyQuizApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86609048-E933-4958-BA4C-5068AFF55DA4}|MyQuizApp\\MyQuizApp.vcxproj|C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\C\u002B\u002B\\MyQuizApp\\MyQuizApp\\Utilities.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86609048-E933-4958-BA4C-5068AFF55DA4}|MyQuizApp\\MyQuizApp.vcxproj|solutionrelative:MyQuizApp\\Utilities.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86609048-E933-4958-BA4C-5068AFF55DA4}|MyQuizApp\\MyQuizApp.vcxproj|C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\C\u002B\u002B\\MyQuizApp\\MyQuizApp\\MyQuizApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86609048-E933-4958-BA4C-5068AFF55DA4}|MyQuizApp\\MyQuizApp.vcxproj|solutionrelative:MyQuizApp\\MyQuizApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86609048-E933-4958-BA4C-5068AFF55DA4}|MyQuizApp\\MyQuizApp.vcxproj|C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\C\u002B\u002B\\MyQuizApp\\MyQuizApp\\Utilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86609048-E933-4958-BA4C-5068AFF55DA4}|MyQuizApp\\MyQuizApp.vcxproj|solutionrelative:MyQuizApp\\Utilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86609048-E933-4958-BA4C-5068AFF55DA4}|MyQuizApp\\MyQuizApp.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\UM\\SQLTYPES.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86609048-E933-4958-BA4C-5068AFF55DA4}|MyQuizApp\\MyQuizApp.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\UM\\SQLEXT.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 387,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sqltypes.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\sqltypes.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\sqltypes.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\sqltypes.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\sqltypes.h",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwvz8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-29T07:24:26.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sqlext.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\sqlext.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\sqlext.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\sqlext.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\sqlext.h",
+              "ViewState": "AgIAAJkIAAAAAAAAAADwv6kIAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-29T07:23:56.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utilities.cpp",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\C\u002B\u002B\\MyQuizApp\\MyQuizApp\\Utilities.cpp",
+              "RelativeDocumentMoniker": "MyQuizApp\\Utilities.cpp",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\C\u002B\u002B\\MyQuizApp\\MyQuizApp\\Utilities.cpp",
+              "RelativeToolTip": "MyQuizApp\\Utilities.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-29T06:33:07.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utilities.h",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\C\u002B\u002B\\MyQuizApp\\MyQuizApp\\Utilities.h",
+              "RelativeDocumentMoniker": "MyQuizApp\\Utilities.h",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\C\u002B\u002B\\MyQuizApp\\MyQuizApp\\Utilities.h",
+              "RelativeToolTip": "MyQuizApp\\Utilities.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-29T06:31:30.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyQuizApp.cpp",
+              "DocumentMoniker": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\C\u002B\u002B\\MyQuizApp\\MyQuizApp\\MyQuizApp.cpp",
+              "RelativeDocumentMoniker": "MyQuizApp\\MyQuizApp.cpp",
+              "ToolTip": "C:\\Users\\TheHe\\Documents\\GitHub\\C-Projects\\C\u002B\u002B\\MyQuizApp\\MyQuizApp\\MyQuizApp.cpp",
+              "RelativeToolTip": "MyQuizApp\\MyQuizApp.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvx0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-29T06:29:59.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 170,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
