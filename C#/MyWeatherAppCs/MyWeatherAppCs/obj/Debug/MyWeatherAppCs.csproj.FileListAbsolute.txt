@@ -1,0 +1,14 @@
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\obj\Debug\MyWeatherAppCs.csproj.AssemblyReference.cache
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\obj\Debug\MyWeatherAppCs.Properties.Resources.resources
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\obj\Debug\MyWeatherAppCs.csproj.GenerateResource.cache
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\obj\Debug\MyWeatherAppCs.csproj.CoreCompileInputs.cache
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\bin\Debug\MyWeatherAppCs.exe.config
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\bin\Debug\MyWeatherAppCs.exe
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\bin\Debug\MyWeatherAppCs.pdb
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\obj\Debug\MyWeatherAppCs.exe
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\obj\Debug\MyWeatherAppCs.pdb
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\obj\Debug\MyWeatherAppCs.Form1.resources
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\obj\Debug\MyWeathe.F568FB5B.Up2Date
+C:\Users\TheHe\Documents\GitHub\C-Projects\MyWeatherAppCs\MyWeatherAppCs\obj\Debug\MyWeatherAppCs.ForecastUC.resources
